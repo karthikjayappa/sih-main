@@ -1,0 +1,6462 @@
+[
+  {
+    "sourceParcelId": "KH-MY100",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Kavya Setty",
+    "areaSqm": 9069.2,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619431,
+        12.319671
+      ],
+      [
+        76.620569,
+        12.319671
+      ],
+      [
+        76.620569,
+        12.320329
+      ],
+      [
+        76.619431,
+        12.320329
+      ],
+      [
+        76.619431,
+        12.319671
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY100",
+      "plot_area_ac": 2.241,
+      "owner": "Kavya Setty",
+      "village_lgd_code": 10000
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-300/1A",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Kavya Setty",
+    "areaSqm": 9069.2,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619431,
+        12.319671
+      ],
+      [
+        76.620569,
+        12.319671
+      ],
+      [
+        76.620569,
+        12.320329
+      ],
+      [
+        76.619431,
+        12.320329
+      ],
+      [
+        76.619431,
+        12.319671
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-300/1A",
+      "area_hectare": 0.9069,
+      "pattadar_name": "Kavya Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W5-P400",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Kavya Setty",
+    "areaSqm": 9069.2,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619431,
+        12.319671
+      ],
+      [
+        76.620569,
+        12.319671
+      ],
+      [
+        76.620569,
+        12.320329
+      ],
+      [
+        76.619431,
+        12.320329
+      ],
+      [
+        76.619431,
+        12.319671
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W5-P400",
+      "built_up_sqft": 53691.0,
+      "property_holder": "Kavya Setty",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY101",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Suma Gowda",
+    "areaSqm": 10311.3,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621474,
+        12.31966
+      ],
+      [
+        76.622726,
+        12.31966
+      ],
+      [
+        76.622726,
+        12.32034
+      ],
+      [
+        76.621474,
+        12.32034
+      ],
+      [
+        76.621474,
+        12.31966
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY101",
+      "plot_area_ac": 2.548,
+      "owner": "Suma Gowda",
+      "village_lgd_code": 10001
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-301/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Suma Gowda",
+    "areaSqm": 10311.3,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621474,
+        12.31966
+      ],
+      [
+        76.622726,
+        12.31966
+      ],
+      [
+        76.622726,
+        12.32034
+      ],
+      [
+        76.621474,
+        12.32034
+      ],
+      [
+        76.621474,
+        12.31966
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-301/3B",
+      "area_hectare": 1.0311,
+      "pattadar_name": "Suma Gowda",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W6-P401",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Suma Gowda",
+    "areaSqm": 10311.3,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621474,
+        12.31966
+      ],
+      [
+        76.622726,
+        12.31966
+      ],
+      [
+        76.622726,
+        12.32034
+      ],
+      [
+        76.621474,
+        12.32034
+      ],
+      [
+        76.621474,
+        12.31966
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W6-P401",
+      "built_up_sqft": 61044.4,
+      "property_holder": "Suma Gowda",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY102",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Kavya Iyengar",
+    "areaSqm": 7517.0,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623769,
+        12.31964
+      ],
+      [
+        76.624631,
+        12.31964
+      ],
+      [
+        76.624631,
+        12.32036
+      ],
+      [
+        76.623769,
+        12.32036
+      ],
+      [
+        76.623769,
+        12.31964
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY102",
+      "plot_area_ac": 1.857,
+      "owner": "Kavya Iyengar",
+      "village_lgd_code": 10002
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-302/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Ramesh Naik",
+    "areaSqm": 7517.0,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623769,
+        12.31964
+      ],
+      [
+        76.624631,
+        12.31964
+      ],
+      [
+        76.624631,
+        12.32036
+      ],
+      [
+        76.623769,
+        12.32036
+      ],
+      [
+        76.623769,
+        12.31964
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-302/3B",
+      "area_hectare": 0.7517,
+      "pattadar_name": "Ramesh Naik",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "W7-P402",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Kavya Iyengar",
+    "areaSqm": 7517.0,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623769,
+        12.31964
+      ],
+      [
+        76.624631,
+        12.31964
+      ],
+      [
+        76.624631,
+        12.32036
+      ],
+      [
+        76.623769,
+        12.32036
+      ],
+      [
+        76.623769,
+        12.31964
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W7-P402",
+      "built_up_sqft": 44501.7,
+      "property_holder": "Kavya Iyengar",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY103",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Manjunath Reddy",
+    "areaSqm": 10518.1,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625827,
+        12.319541
+      ],
+      [
+        76.626773,
+        12.319541
+      ],
+      [
+        76.626773,
+        12.320459
+      ],
+      [
+        76.625827,
+        12.320459
+      ],
+      [
+        76.625827,
+        12.319541
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY103",
+      "plot_area_ac": 2.599,
+      "owner": "Manjunath Reddy",
+      "village_lgd_code": 10003
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-303/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Manjunath Reddy",
+    "areaSqm": 10518.1,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625827,
+        12.319541
+      ],
+      [
+        76.626773,
+        12.319541
+      ],
+      [
+        76.626773,
+        12.320459
+      ],
+      [
+        76.625827,
+        12.320459
+      ],
+      [
+        76.625827,
+        12.319541
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-303/1",
+      "area_hectare": 1.0518,
+      "pattadar_name": "Manjunath Reddy",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA104",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Jayamma Urs",
+    "areaSqm": 12665.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627839,
+        12.319534
+      ],
+      [
+        76.628961,
+        12.319534
+      ],
+      [
+        76.628961,
+        12.320466
+      ],
+      [
+        76.627839,
+        12.320466
+      ],
+      [
+        76.627839,
+        12.319534
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA104",
+      "plot_area_ac": 3.13,
+      "owner": "Jayamma Urs",
+      "village_lgd_code": 10004
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-304/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Jayamma Urs",
+    "areaSqm": 12665.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627839,
+        12.319534
+      ],
+      [
+        76.628961,
+        12.319534
+      ],
+      [
+        76.628961,
+        12.320466
+      ],
+      [
+        76.627839,
+        12.320466
+      ],
+      [
+        76.627839,
+        12.319534
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-304/3B",
+      "area_hectare": 1.2665,
+      "pattadar_name": "Jayamma Urs",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "W12-P404",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Jayamma Urs",
+    "areaSqm": 12665.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627839,
+        12.319534
+      ],
+      [
+        76.628961,
+        12.319534
+      ],
+      [
+        76.628961,
+        12.320466
+      ],
+      [
+        76.627839,
+        12.320466
+      ],
+      [
+        76.627839,
+        12.319534
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W12-P404",
+      "built_up_sqft": 74979.8,
+      "property_holder": "Jayamma Urs",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY105",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Krishnappa Setty",
+    "areaSqm": 13161.9,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.629934,
+        12.31952
+      ],
+      [
+        76.631066,
+        12.31952
+      ],
+      [
+        76.631066,
+        12.32048
+      ],
+      [
+        76.629934,
+        12.32048
+      ],
+      [
+        76.629934,
+        12.31952
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY105",
+      "plot_area_ac": 3.252,
+      "owner": "Krishnappa Setty",
+      "village_lgd_code": 10005
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-305/1A",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Krishnappa Setty",
+    "areaSqm": 14880.0,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.629934,
+        12.31952
+      ],
+      [
+        76.631066,
+        12.31952
+      ],
+      [
+        76.631066,
+        12.32048
+      ],
+      [
+        76.629934,
+        12.32048
+      ],
+      [
+        76.629934,
+        12.31952
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-305/1A",
+      "area_hectare": 1.488,
+      "pattadar_name": "Krishnappa Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "W10-P405",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Krishnappa Setty",
+    "areaSqm": 13161.9,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.629934,
+        12.31952
+      ],
+      [
+        76.631066,
+        12.31952
+      ],
+      [
+        76.631066,
+        12.32048
+      ],
+      [
+        76.629934,
+        12.32048
+      ],
+      [
+        76.629934,
+        12.31952
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W10-P405",
+      "built_up_sqft": 77920.4,
+      "property_holder": "Krishnappa Setty",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY106",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Chaya Naik",
+    "areaSqm": 11774.4,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63198,
+        12.319608
+      ],
+      [
+        76.63322,
+        12.319608
+      ],
+      [
+        76.63322,
+        12.320392
+      ],
+      [
+        76.63198,
+        12.320392
+      ],
+      [
+        76.63198,
+        12.319608
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY106",
+      "plot_area_ac": 2.91,
+      "owner": "Chaya Naik",
+      "village_lgd_code": 10006
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-306/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Chaya Naik",
+    "areaSqm": 11774.4,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63198,
+        12.319608
+      ],
+      [
+        76.63322,
+        12.319608
+      ],
+      [
+        76.63322,
+        12.320392
+      ],
+      [
+        76.63198,
+        12.320392
+      ],
+      [
+        76.63198,
+        12.319608
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-306/3B",
+      "area_hectare": 1.1774,
+      "pattadar_name": "Chaya Naik",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W11-P406",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Chaya Naik",
+    "areaSqm": 11774.4,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63198,
+        12.319608
+      ],
+      [
+        76.63322,
+        12.319608
+      ],
+      [
+        76.63322,
+        12.320392
+      ],
+      [
+        76.63198,
+        12.320392
+      ],
+      [
+        76.63198,
+        12.319608
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W11-P406",
+      "built_up_sqft": 69706.2,
+      "property_holder": "Chaya Naik",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T15:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY107",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lata Naik",
+    "areaSqm": 12568.7,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634117,
+        12.319555
+      ],
+      [
+        76.635283,
+        12.319555
+      ],
+      [
+        76.635283,
+        12.320445
+      ],
+      [
+        76.634117,
+        12.320445
+      ],
+      [
+        76.634117,
+        12.319555
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY107",
+      "plot_area_ac": 3.106,
+      "owner": "Lata Naik",
+      "village_lgd_code": 10007
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-307/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Kavya Naik",
+    "areaSqm": 12568.7,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634117,
+        12.319555
+      ],
+      [
+        76.635283,
+        12.319555
+      ],
+      [
+        76.635283,
+        12.320445
+      ],
+      [
+        76.634117,
+        12.320445
+      ],
+      [
+        76.634117,
+        12.319555
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-307/1",
+      "area_hectare": 1.2569,
+      "pattadar_name": "Kavya Naik",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W12-P407",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Lata Naik",
+    "areaSqm": 12568.7,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634117,
+        12.319555
+      ],
+      [
+        76.635283,
+        12.319555
+      ],
+      [
+        76.635283,
+        12.320445
+      ],
+      [
+        76.634117,
+        12.320445
+      ],
+      [
+        76.634117,
+        12.319555
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W12-P407",
+      "built_up_sqft": 74408.5,
+      "property_holder": "Lata Naik",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY108",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Kavya Gowda",
+    "areaSqm": 11857.3,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.62005,
+        12.321155
+      ],
+      [
+        76.62115,
+        12.321155
+      ],
+      [
+        76.62115,
+        12.322045
+      ],
+      [
+        76.62005,
+        12.322045
+      ],
+      [
+        76.62005,
+        12.321155
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY108",
+      "plot_area_ac": 2.93,
+      "owner": "Kavya Gowda",
+      "village_lgd_code": 10008
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-308/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Kavya Gowda",
+    "areaSqm": 11857.3,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.62011,
+        12.321104
+      ],
+      [
+        76.62121,
+        12.321104
+      ],
+      [
+        76.62121,
+        12.321994
+      ],
+      [
+        76.62011,
+        12.321994
+      ],
+      [
+        76.62011,
+        12.321104
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-308/1",
+      "area_hectare": 1.1857,
+      "pattadar_name": "Kavya Gowda",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "W13-P408",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Kavya Gowda",
+    "areaSqm": 11857.3,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.62005,
+        12.321155
+      ],
+      [
+        76.62115,
+        12.321155
+      ],
+      [
+        76.62115,
+        12.322045
+      ],
+      [
+        76.62005,
+        12.322045
+      ],
+      [
+        76.62005,
+        12.321155
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W13-P408",
+      "built_up_sqft": 70196.9,
+      "property_holder": "Kavya Gowda",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA109",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Jayamma Shetty",
+    "areaSqm": 9490.1,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622172,
+        12.321229
+      ],
+      [
+        76.623228,
+        12.321229
+      ],
+      [
+        76.623228,
+        12.321971
+      ],
+      [
+        76.622172,
+        12.321971
+      ],
+      [
+        76.622172,
+        12.321229
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA109",
+      "plot_area_ac": 2.345,
+      "owner": "Jayamma Shetty",
+      "village_lgd_code": 10009
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-309/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Jayamma Shetty",
+    "areaSqm": 9490.1,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622172,
+        12.321229
+      ],
+      [
+        76.623228,
+        12.321229
+      ],
+      [
+        76.623228,
+        12.321971
+      ],
+      [
+        76.622172,
+        12.321971
+      ],
+      [
+        76.622172,
+        12.321229
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-309/2",
+      "area_hectare": 0.949,
+      "pattadar_name": "Jayamma Shetty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "W14-P409",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Jayamma Shetty",
+    "areaSqm": 9490.1,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622172,
+        12.321229
+      ],
+      [
+        76.623228,
+        12.321229
+      ],
+      [
+        76.623228,
+        12.321971
+      ],
+      [
+        76.622172,
+        12.321971
+      ],
+      [
+        76.622172,
+        12.321229
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W14-P409",
+      "built_up_sqft": 56182.8,
+      "property_holder": "Jayamma Shetty",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY110",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Iqbal Iyengar",
+    "areaSqm": 9056.8,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624285,
+        12.321237
+      ],
+      [
+        76.625315,
+        12.321237
+      ],
+      [
+        76.625315,
+        12.321963
+      ],
+      [
+        76.624285,
+        12.321963
+      ],
+      [
+        76.624285,
+        12.321237
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY110",
+      "plot_area_ac": 2.238,
+      "owner": "Iqbal Iyengar",
+      "village_lgd_code": 10010
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-310/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Iqbal Iyengar",
+    "areaSqm": 9056.8,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624285,
+        12.321237
+      ],
+      [
+        76.625315,
+        12.321237
+      ],
+      [
+        76.625315,
+        12.321963
+      ],
+      [
+        76.624285,
+        12.321963
+      ],
+      [
+        76.624285,
+        12.321237
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-310/2",
+      "area_hectare": 0.9057,
+      "pattadar_name": "Iqbal Iyengar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "W15-P410",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Iqbal Iyengar",
+    "areaSqm": 9056.8,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624285,
+        12.321237
+      ],
+      [
+        76.625315,
+        12.321237
+      ],
+      [
+        76.625315,
+        12.321963
+      ],
+      [
+        76.624285,
+        12.321963
+      ],
+      [
+        76.624285,
+        12.321237
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W15-P410",
+      "built_up_sqft": 53617.6,
+      "property_holder": "Iqbal Iyengar",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY111",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lata Urs",
+    "areaSqm": 7849.6,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626441,
+        12.321247
+      ],
+      [
+        76.627359,
+        12.321247
+      ],
+      [
+        76.627359,
+        12.321953
+      ],
+      [
+        76.626441,
+        12.321953
+      ],
+      [
+        76.626441,
+        12.321247
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY111",
+      "plot_area_ac": 1.94,
+      "owner": "Lata Urs",
+      "village_lgd_code": 10011
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-311/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lata Urs",
+    "areaSqm": 7849.6,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626441,
+        12.321247
+      ],
+      [
+        76.627359,
+        12.321247
+      ],
+      [
+        76.627359,
+        12.321953
+      ],
+      [
+        76.626441,
+        12.321953
+      ],
+      [
+        76.626441,
+        12.321247
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-311/3B",
+      "area_hectare": 0.785,
+      "pattadar_name": "Lata Urs",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "W16-P411",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Lata Urs",
+    "areaSqm": 7849.6,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626441,
+        12.321247
+      ],
+      [
+        76.627359,
+        12.321247
+      ],
+      [
+        76.627359,
+        12.321953
+      ],
+      [
+        76.626441,
+        12.321953
+      ],
+      [
+        76.626441,
+        12.321247
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W16-P411",
+      "built_up_sqft": 46470.8,
+      "property_holder": "Lata Urs",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY112",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lakshmi Shetty",
+    "areaSqm": 13045.7,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628456,
+        12.321105
+      ],
+      [
+        76.629544,
+        12.321105
+      ],
+      [
+        76.629544,
+        12.322095
+      ],
+      [
+        76.628456,
+        12.322095
+      ],
+      [
+        76.628456,
+        12.321105
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY112",
+      "plot_area_ac": 3.224,
+      "owner": "Lakshmi Shetty",
+      "village_lgd_code": 10012
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-312/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lakshmi Shetty",
+    "areaSqm": 16917.4,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628456,
+        12.321105
+      ],
+      [
+        76.629544,
+        12.321105
+      ],
+      [
+        76.629544,
+        12.322095
+      ],
+      [
+        76.628456,
+        12.322095
+      ],
+      [
+        76.628456,
+        12.321105
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-312/1",
+      "area_hectare": 1.6917,
+      "pattadar_name": "Lakshmi Shetty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W5-P412",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Lakshmi Shetty",
+    "areaSqm": 13045.7,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628456,
+        12.321105
+      ],
+      [
+        76.629544,
+        12.321105
+      ],
+      [
+        76.629544,
+        12.322095
+      ],
+      [
+        76.628456,
+        12.322095
+      ],
+      [
+        76.628456,
+        12.321105
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W5-P412",
+      "built_up_sqft": 77232.4,
+      "property_holder": "Lakshmi Shetty",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY113",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Iqbal Naik",
+    "areaSqm": 14820.7,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63046,
+        12.321122
+      ],
+      [
+        76.63174,
+        12.321122
+      ],
+      [
+        76.63174,
+        12.322078
+      ],
+      [
+        76.63046,
+        12.322078
+      ],
+      [
+        76.63046,
+        12.321122
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY113",
+      "plot_area_ac": 3.662,
+      "owner": "Iqbal Naik",
+      "village_lgd_code": 10013
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-313/1A",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lakshmi Rao",
+    "areaSqm": 14820.7,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63046,
+        12.321122
+      ],
+      [
+        76.63174,
+        12.321122
+      ],
+      [
+        76.63174,
+        12.322078
+      ],
+      [
+        76.63046,
+        12.322078
+      ],
+      [
+        76.63046,
+        12.321122
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-313/1A",
+      "area_hectare": 1.4821,
+      "pattadar_name": "Lakshmi Rao",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA114",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lata Kumar",
+    "areaSqm": 8704.7,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632691,
+        12.321247
+      ],
+      [
+        76.633709,
+        12.321247
+      ],
+      [
+        76.633709,
+        12.321953
+      ],
+      [
+        76.632691,
+        12.321953
+      ],
+      [
+        76.632691,
+        12.321247
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA114",
+      "plot_area_ac": 2.151,
+      "owner": "Lata Kumar",
+      "village_lgd_code": 10014
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-314/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lakshmi Kumar",
+    "areaSqm": 8704.7,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632691,
+        12.321247
+      ],
+      [
+        76.633709,
+        12.321247
+      ],
+      [
+        76.633709,
+        12.321953
+      ],
+      [
+        76.632691,
+        12.321953
+      ],
+      [
+        76.632691,
+        12.321247
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-314/1",
+      "area_hectare": 0.8705,
+      "pattadar_name": "Lakshmi Kumar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY115",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Manjunath Iyengar",
+    "areaSqm": 10164.2,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634862,
+        12.321121
+      ],
+      [
+        76.635738,
+        12.321121
+      ],
+      [
+        76.635738,
+        12.322079
+      ],
+      [
+        76.634862,
+        12.322079
+      ],
+      [
+        76.634862,
+        12.321121
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY115",
+      "plot_area_ac": 2.512,
+      "owner": "Manjunath Iyengar",
+      "village_lgd_code": 10015
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-315/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Manjunath Iyengar",
+    "areaSqm": 10164.2,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634951,
+        12.321075
+      ],
+      [
+        76.635827,
+        12.321075
+      ],
+      [
+        76.635827,
+        12.322033
+      ],
+      [
+        76.634951,
+        12.322033
+      ],
+      [
+        76.634951,
+        12.321075
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-315/1",
+      "area_hectare": 1.0164,
+      "pattadar_name": "Manjunath Iyengar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY116",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Jayamma Setty",
+    "areaSqm": 11359.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619456,
+        12.322769
+      ],
+      [
+        76.620544,
+        12.322769
+      ],
+      [
+        76.620544,
+        12.323631
+      ],
+      [
+        76.619456,
+        12.323631
+      ],
+      [
+        76.619456,
+        12.322769
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY116",
+      "plot_area_ac": 2.807,
+      "owner": "Jayamma Setty",
+      "village_lgd_code": 10016
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-316/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Jayamma Setty",
+    "areaSqm": 13764.5,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619456,
+        12.322769
+      ],
+      [
+        76.620544,
+        12.322769
+      ],
+      [
+        76.620544,
+        12.323631
+      ],
+      [
+        76.619456,
+        12.323631
+      ],
+      [
+        76.619456,
+        12.322769
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-316/2",
+      "area_hectare": 1.3764,
+      "pattadar_name": "Jayamma Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "W9-P416",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Jayamma Setty",
+    "areaSqm": 11359.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619456,
+        12.322769
+      ],
+      [
+        76.620544,
+        12.322769
+      ],
+      [
+        76.620544,
+        12.323631
+      ],
+      [
+        76.619456,
+        12.323631
+      ],
+      [
+        76.619456,
+        12.322769
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W9-P416",
+      "built_up_sqft": 67246.9,
+      "property_holder": "Jayamma Setty",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY117",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Ramesh Patil",
+    "areaSqm": 7970.8,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621648,
+        12.322836
+      ],
+      [
+        76.622552,
+        12.322836
+      ],
+      [
+        76.622552,
+        12.323564
+      ],
+      [
+        76.621648,
+        12.323564
+      ],
+      [
+        76.621648,
+        12.322836
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY117",
+      "plot_area_ac": 1.97,
+      "owner": "Ramesh Patil",
+      "village_lgd_code": 10017
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-317/1A",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Krishnappa Setty",
+    "areaSqm": 7970.8,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621648,
+        12.322836
+      ],
+      [
+        76.622552,
+        12.322836
+      ],
+      [
+        76.622552,
+        12.323564
+      ],
+      [
+        76.621648,
+        12.323564
+      ],
+      [
+        76.621648,
+        12.322836
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-317/1A",
+      "area_hectare": 0.7971,
+      "pattadar_name": "Krishnappa Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "W10-P417",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Ramesh Patil",
+    "areaSqm": 7970.8,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621648,
+        12.322836
+      ],
+      [
+        76.622552,
+        12.322836
+      ],
+      [
+        76.622552,
+        12.323564
+      ],
+      [
+        76.621648,
+        12.323564
+      ],
+      [
+        76.621648,
+        12.322836
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W10-P417",
+      "built_up_sqft": 47188.3,
+      "property_holder": "Ramesh Patil",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY118",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Iqbal Setty",
+    "areaSqm": 14474.6,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623571,
+        12.322725
+      ],
+      [
+        76.624829,
+        12.322725
+      ],
+      [
+        76.624829,
+        12.323675
+      ],
+      [
+        76.623571,
+        12.323675
+      ],
+      [
+        76.623571,
+        12.322725
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY118",
+      "plot_area_ac": 3.577,
+      "owner": "Iqbal Setty",
+      "village_lgd_code": 10018
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-318/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Iqbal Setty",
+    "areaSqm": 14474.6,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623571,
+        12.322725
+      ],
+      [
+        76.624829,
+        12.322725
+      ],
+      [
+        76.624829,
+        12.323675
+      ],
+      [
+        76.623571,
+        12.323675
+      ],
+      [
+        76.623571,
+        12.322725
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-318/1",
+      "area_hectare": 1.4475,
+      "pattadar_name": "Iqbal Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W11-P418",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Iqbal Setty",
+    "areaSqm": 14474.6,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623571,
+        12.322725
+      ],
+      [
+        76.624829,
+        12.322725
+      ],
+      [
+        76.624829,
+        12.323675
+      ],
+      [
+        76.623571,
+        12.323675
+      ],
+      [
+        76.623571,
+        12.322725
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W11-P418",
+      "built_up_sqft": 85691.7,
+      "property_holder": "Iqbal Setty",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA119",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Kavya Iyengar",
+    "areaSqm": 10779.1,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625845,
+        12.322711
+      ],
+      [
+        76.626755,
+        12.322711
+      ],
+      [
+        76.626755,
+        12.323689
+      ],
+      [
+        76.625845,
+        12.323689
+      ],
+      [
+        76.625845,
+        12.322711
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA119",
+      "plot_area_ac": 2.664,
+      "owner": "Kavya Iyengar",
+      "village_lgd_code": 10019
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-319/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Kavya Iyengar",
+    "areaSqm": 10779.1,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625895,
+        12.322638
+      ],
+      [
+        76.626805,
+        12.322638
+      ],
+      [
+        76.626805,
+        12.323616
+      ],
+      [
+        76.625895,
+        12.323616
+      ],
+      [
+        76.625895,
+        12.322638
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-319/3B",
+      "area_hectare": 1.0779,
+      "pattadar_name": "Kavya Iyengar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W12-P419",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Kavya Iyengar",
+    "areaSqm": 10779.1,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625845,
+        12.322711
+      ],
+      [
+        76.626755,
+        12.322711
+      ],
+      [
+        76.626755,
+        12.323689
+      ],
+      [
+        76.625845,
+        12.323689
+      ],
+      [
+        76.625845,
+        12.322711
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W12-P419",
+      "built_up_sqft": 63813.8,
+      "property_holder": "Kavya Iyengar",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY120",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Devaraj Kumar",
+    "areaSqm": 12137.6,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627828,
+        12.322762
+      ],
+      [
+        76.628972,
+        12.322762
+      ],
+      [
+        76.628972,
+        12.323638
+      ],
+      [
+        76.627828,
+        12.323638
+      ],
+      [
+        76.627828,
+        12.322762
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY120",
+      "plot_area_ac": 2.999,
+      "owner": "Devaraj Kumar",
+      "village_lgd_code": 10020
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-320/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Devaraj Kumar",
+    "areaSqm": 12137.6,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627873,
+        12.322712
+      ],
+      [
+        76.629017,
+        12.322712
+      ],
+      [
+        76.629017,
+        12.323588
+      ],
+      [
+        76.627873,
+        12.323588
+      ],
+      [
+        76.627873,
+        12.322712
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-320/1",
+      "area_hectare": 1.2138,
+      "pattadar_name": "Devaraj Kumar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "W13-P420",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Devaraj Kumar",
+    "areaSqm": 12137.6,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627828,
+        12.322762
+      ],
+      [
+        76.628972,
+        12.322762
+      ],
+      [
+        76.628972,
+        12.323638
+      ],
+      [
+        76.627828,
+        12.323638
+      ],
+      [
+        76.627828,
+        12.322762
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W13-P420",
+      "built_up_sqft": 71856.4,
+      "property_holder": "Devaraj Kumar",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T15:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY121",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Jayamma Urs",
+    "areaSqm": 11348.4,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630019,
+        12.322713
+      ],
+      [
+        76.630981,
+        12.322713
+      ],
+      [
+        76.630981,
+        12.323687
+      ],
+      [
+        76.630019,
+        12.323687
+      ],
+      [
+        76.630019,
+        12.322713
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY121",
+      "plot_area_ac": 2.804,
+      "owner": "Jayamma Urs",
+      "village_lgd_code": 10021
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-321/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Jayamma Urs",
+    "areaSqm": 11348.4,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630019,
+        12.322713
+      ],
+      [
+        76.630981,
+        12.322713
+      ],
+      [
+        76.630981,
+        12.323687
+      ],
+      [
+        76.630019,
+        12.323687
+      ],
+      [
+        76.630019,
+        12.322713
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-321/3B",
+      "area_hectare": 1.1348,
+      "pattadar_name": "Jayamma Urs",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY122",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Geetha Reddy",
+    "areaSqm": 14700.4,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.631987,
+        12.322705
+      ],
+      [
+        76.633213,
+        12.322705
+      ],
+      [
+        76.633213,
+        12.323695
+      ],
+      [
+        76.631987,
+        12.323695
+      ],
+      [
+        76.631987,
+        12.322705
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY122",
+      "plot_area_ac": 3.633,
+      "owner": "Geetha Reddy",
+      "village_lgd_code": 10022
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-322/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Nagaraj Reddy",
+    "areaSqm": 14700.4,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.631987,
+        12.322705
+      ],
+      [
+        76.633213,
+        12.322705
+      ],
+      [
+        76.633213,
+        12.323695
+      ],
+      [
+        76.631987,
+        12.323695
+      ],
+      [
+        76.631987,
+        12.322705
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-322/2",
+      "area_hectare": 1.47,
+      "pattadar_name": "Nagaraj Reddy",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY123",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Anitha Reddy",
+    "areaSqm": 8091.8,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634275,
+        12.322807
+      ],
+      [
+        76.635125,
+        12.322807
+      ],
+      [
+        76.635125,
+        12.323593
+      ],
+      [
+        76.634275,
+        12.323593
+      ],
+      [
+        76.634275,
+        12.322807
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY123",
+      "plot_area_ac": 2.0,
+      "owner": "Anitha Reddy",
+      "village_lgd_code": 10023
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-323/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Anitha Reddy",
+    "areaSqm": 10422.4,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634275,
+        12.322807
+      ],
+      [
+        76.635125,
+        12.322807
+      ],
+      [
+        76.635125,
+        12.323593
+      ],
+      [
+        76.634275,
+        12.323593
+      ],
+      [
+        76.634275,
+        12.322807
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-323/3B",
+      "area_hectare": 1.0422,
+      "pattadar_name": "Anitha Reddy",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA124",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Krishnappa Shetty",
+    "areaSqm": 8230.3,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.620132,
+        12.324437
+      ],
+      [
+        76.621068,
+        12.324437
+      ],
+      [
+        76.621068,
+        12.325163
+      ],
+      [
+        76.620132,
+        12.325163
+      ],
+      [
+        76.620132,
+        12.324437
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA124",
+      "plot_area_ac": 2.034,
+      "owner": "Krishnappa Shetty",
+      "village_lgd_code": 10024
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-324/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Krishnappa Shetty",
+    "areaSqm": 8230.3,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.620132,
+        12.324437
+      ],
+      [
+        76.621068,
+        12.324437
+      ],
+      [
+        76.621068,
+        12.325163
+      ],
+      [
+        76.620132,
+        12.325163
+      ],
+      [
+        76.620132,
+        12.324437
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-324/1",
+      "area_hectare": 0.823,
+      "pattadar_name": "Krishnappa Shetty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W5-P424",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Krishnappa Shetty",
+    "areaSqm": 8230.3,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.620132,
+        12.324437
+      ],
+      [
+        76.621068,
+        12.324437
+      ],
+      [
+        76.621068,
+        12.325163
+      ],
+      [
+        76.620132,
+        12.325163
+      ],
+      [
+        76.620132,
+        12.324437
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W5-P424",
+      "built_up_sqft": 48724.6,
+      "property_holder": "Krishnappa Shetty",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY125",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Suma Shetty",
+    "areaSqm": 11124.7,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622144,
+        12.324387
+      ],
+      [
+        76.623256,
+        12.324387
+      ],
+      [
+        76.623256,
+        12.325213
+      ],
+      [
+        76.622144,
+        12.325213
+      ],
+      [
+        76.622144,
+        12.324387
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY125",
+      "plot_area_ac": 2.749,
+      "owner": "Suma Shetty",
+      "village_lgd_code": 10025
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-325/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Suma Shetty",
+    "areaSqm": 11124.7,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622144,
+        12.324387
+      ],
+      [
+        76.623256,
+        12.324387
+      ],
+      [
+        76.623256,
+        12.325213
+      ],
+      [
+        76.622144,
+        12.325213
+      ],
+      [
+        76.622144,
+        12.324387
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-325/2",
+      "area_hectare": 1.1125,
+      "pattadar_name": "Suma Shetty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W6-P425",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Suma Shetty",
+    "areaSqm": 11124.7,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622144,
+        12.324387
+      ],
+      [
+        76.623256,
+        12.324387
+      ],
+      [
+        76.623256,
+        12.325213
+      ],
+      [
+        76.622144,
+        12.325213
+      ],
+      [
+        76.622144,
+        12.324387
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W6-P425",
+      "built_up_sqft": 65859.8,
+      "property_holder": "Suma Shetty",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY126",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lakshmi Patil",
+    "areaSqm": 10146.6,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.62436,
+        12.324324
+      ],
+      [
+        76.62524,
+        12.324324
+      ],
+      [
+        76.62524,
+        12.325276
+      ],
+      [
+        76.62436,
+        12.325276
+      ],
+      [
+        76.62436,
+        12.324324
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY126",
+      "plot_area_ac": 2.507,
+      "owner": "Lakshmi Patil",
+      "village_lgd_code": 10026
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-326/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lakshmi Patil",
+    "areaSqm": 10146.6,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.62436,
+        12.324324
+      ],
+      [
+        76.62524,
+        12.324324
+      ],
+      [
+        76.62524,
+        12.325276
+      ],
+      [
+        76.62436,
+        12.325276
+      ],
+      [
+        76.62436,
+        12.324324
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-326/3B",
+      "area_hectare": 1.0147,
+      "pattadar_name": "Lakshmi Patil",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "W7-P426",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Lakshmi Patil",
+    "areaSqm": 10146.6,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.62436,
+        12.324324
+      ],
+      [
+        76.62524,
+        12.324324
+      ],
+      [
+        76.62524,
+        12.325276
+      ],
+      [
+        76.62436,
+        12.325276
+      ],
+      [
+        76.62436,
+        12.324324
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W7-P426",
+      "built_up_sqft": 60069.3,
+      "property_holder": "Lakshmi Patil",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY127",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Srinivas Setty",
+    "areaSqm": 9443.2,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626457,
+        12.32436
+      ],
+      [
+        76.627343,
+        12.32436
+      ],
+      [
+        76.627343,
+        12.32524
+      ],
+      [
+        76.626457,
+        12.32524
+      ],
+      [
+        76.626457,
+        12.32436
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY127",
+      "plot_area_ac": 2.333,
+      "owner": "Srinivas Setty",
+      "village_lgd_code": 10027
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-327/1A",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Srinivas Setty",
+    "areaSqm": 11258.8,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626457,
+        12.32436
+      ],
+      [
+        76.627343,
+        12.32436
+      ],
+      [
+        76.627343,
+        12.32524
+      ],
+      [
+        76.626457,
+        12.32524
+      ],
+      [
+        76.626457,
+        12.32436
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-327/1A",
+      "area_hectare": 1.1259,
+      "pattadar_name": "Srinivas Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "W8-P427",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Srinivas Setty",
+    "areaSqm": 9443.2,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626457,
+        12.32436
+      ],
+      [
+        76.627343,
+        12.32436
+      ],
+      [
+        76.627343,
+        12.32524
+      ],
+      [
+        76.626457,
+        12.32524
+      ],
+      [
+        76.626457,
+        12.32436
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W8-P427",
+      "built_up_sqft": 55905.1,
+      "property_holder": "Srinivas Setty",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T15:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY128",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Ramesh Iyengar",
+    "areaSqm": 10981.5,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628504,
+        12.324343
+      ],
+      [
+        76.629496,
+        12.324343
+      ],
+      [
+        76.629496,
+        12.325257
+      ],
+      [
+        76.628504,
+        12.325257
+      ],
+      [
+        76.628504,
+        12.324343
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY128",
+      "plot_area_ac": 2.714,
+      "owner": "Ramesh Iyengar",
+      "village_lgd_code": 10028
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-328/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Krishnappa Urs",
+    "areaSqm": 10981.5,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628504,
+        12.324343
+      ],
+      [
+        76.629496,
+        12.324343
+      ],
+      [
+        76.629496,
+        12.325257
+      ],
+      [
+        76.628504,
+        12.325257
+      ],
+      [
+        76.628504,
+        12.324343
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-328/1",
+      "area_hectare": 1.0981,
+      "pattadar_name": "Krishnappa Urs",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "W9-P428",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Ramesh Iyengar",
+    "areaSqm": 10981.5,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628504,
+        12.324343
+      ],
+      [
+        76.629496,
+        12.324343
+      ],
+      [
+        76.629496,
+        12.325257
+      ],
+      [
+        76.628504,
+        12.325257
+      ],
+      [
+        76.628504,
+        12.324343
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W9-P428",
+      "built_up_sqft": 65012.1,
+      "property_holder": "Ramesh Iyengar",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA129",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Chaya Rao",
+    "areaSqm": 8228.5,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630596,
+        12.324463
+      ],
+      [
+        76.631604,
+        12.324463
+      ],
+      [
+        76.631604,
+        12.325137
+      ],
+      [
+        76.630596,
+        12.325137
+      ],
+      [
+        76.630596,
+        12.324463
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA129",
+      "plot_area_ac": 2.033,
+      "owner": "Chaya Rao",
+      "village_lgd_code": 10029
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-329/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Chaya Rao",
+    "areaSqm": 8228.5,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630596,
+        12.324463
+      ],
+      [
+        76.631604,
+        12.324463
+      ],
+      [
+        76.631604,
+        12.325137
+      ],
+      [
+        76.630596,
+        12.325137
+      ],
+      [
+        76.630596,
+        12.324463
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-329/2",
+      "area_hectare": 0.8228,
+      "pattadar_name": "Chaya Rao",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY130",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Jayamma Rao",
+    "areaSqm": 12201.5,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632617,
+        12.324368
+      ],
+      [
+        76.633783,
+        12.324368
+      ],
+      [
+        76.633783,
+        12.325232
+      ],
+      [
+        76.632617,
+        12.325232
+      ],
+      [
+        76.632617,
+        12.324368
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY130",
+      "plot_area_ac": 3.015,
+      "owner": "Jayamma Rao",
+      "village_lgd_code": 10030
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-330/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Jayamma Rao",
+    "areaSqm": 12201.5,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632617,
+        12.324368
+      ],
+      [
+        76.633783,
+        12.324368
+      ],
+      [
+        76.633783,
+        12.325232
+      ],
+      [
+        76.632617,
+        12.325232
+      ],
+      [
+        76.632617,
+        12.324368
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-330/1",
+      "area_hectare": 1.2202,
+      "pattadar_name": "Jayamma Rao",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W14-P402",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Jayamma Rao",
+    "areaSqm": 12201.5,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632617,
+        12.324368
+      ],
+      [
+        76.633783,
+        12.324368
+      ],
+      [
+        76.633783,
+        12.325232
+      ],
+      [
+        76.632617,
+        12.325232
+      ],
+      [
+        76.632617,
+        12.324368
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W14-P402",
+      "built_up_sqft": 72234.6,
+      "property_holder": "Jayamma Rao",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY131",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Srinivas Rao",
+    "areaSqm": 13777.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634675,
+        12.324345
+      ],
+      [
+        76.635925,
+        12.324345
+      ],
+      [
+        76.635925,
+        12.325255
+      ],
+      [
+        76.634675,
+        12.325255
+      ],
+      [
+        76.634675,
+        12.324345
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY131",
+      "plot_area_ac": 3.404,
+      "owner": "Srinivas Rao",
+      "village_lgd_code": 10031
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-331/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Basavaraj Setty",
+    "areaSqm": 13777.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634675,
+        12.324345
+      ],
+      [
+        76.635925,
+        12.324345
+      ],
+      [
+        76.635925,
+        12.325255
+      ],
+      [
+        76.634675,
+        12.325255
+      ],
+      [
+        76.634675,
+        12.324345
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-331/2",
+      "area_hectare": 1.3777,
+      "pattadar_name": "Basavaraj Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W12-P431",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Srinivas Rao",
+    "areaSqm": 13777.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634675,
+        12.324345
+      ],
+      [
+        76.635925,
+        12.324345
+      ],
+      [
+        76.635925,
+        12.325255
+      ],
+      [
+        76.634675,
+        12.325255
+      ],
+      [
+        76.634675,
+        12.324345
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W12-P431",
+      "built_up_sqft": 81561.8,
+      "property_holder": "Srinivas Rao",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY132",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Srinivas Gowda",
+    "areaSqm": 10177.9,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619371,
+        12.326066
+      ],
+      [
+        76.620629,
+        12.326066
+      ],
+      [
+        76.620629,
+        12.326734
+      ],
+      [
+        76.619371,
+        12.326734
+      ],
+      [
+        76.619371,
+        12.326066
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY132",
+      "plot_area_ac": 2.515,
+      "owner": "Srinivas Gowda",
+      "village_lgd_code": 10032
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-332/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Srinivas Gowda",
+    "areaSqm": 10177.9,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619371,
+        12.326066
+      ],
+      [
+        76.620629,
+        12.326066
+      ],
+      [
+        76.620629,
+        12.326734
+      ],
+      [
+        76.619371,
+        12.326734
+      ],
+      [
+        76.619371,
+        12.326066
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-332/3B",
+      "area_hectare": 1.0178,
+      "pattadar_name": "Srinivas Gowda",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY133",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Jayamma Reddy",
+    "areaSqm": 10209.0,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621532,
+        12.326029
+      ],
+      [
+        76.622668,
+        12.326029
+      ],
+      [
+        76.622668,
+        12.326771
+      ],
+      [
+        76.621532,
+        12.326771
+      ],
+      [
+        76.621532,
+        12.326029
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY133",
+      "plot_area_ac": 2.523,
+      "owner": "Jayamma Reddy",
+      "village_lgd_code": 10033
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-333/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lakshmi Urs",
+    "areaSqm": 10209.0,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621532,
+        12.326029
+      ],
+      [
+        76.622668,
+        12.326029
+      ],
+      [
+        76.622668,
+        12.326771
+      ],
+      [
+        76.621532,
+        12.326771
+      ],
+      [
+        76.621532,
+        12.326029
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-333/3B",
+      "area_hectare": 1.0209,
+      "pattadar_name": "Lakshmi Urs",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA134",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Farida Naik",
+    "areaSqm": 8181.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623767,
+        12.32601
+      ],
+      [
+        76.624633,
+        12.32601
+      ],
+      [
+        76.624633,
+        12.32679
+      ],
+      [
+        76.623767,
+        12.32679
+      ],
+      [
+        76.623767,
+        12.32601
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA134",
+      "plot_area_ac": 2.022,
+      "owner": "Farida Naik",
+      "village_lgd_code": 10034
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-334/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Farida Naik",
+    "areaSqm": 8181.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623767,
+        12.32601
+      ],
+      [
+        76.624633,
+        12.32601
+      ],
+      [
+        76.624633,
+        12.32679
+      ],
+      [
+        76.623767,
+        12.32679
+      ],
+      [
+        76.623767,
+        12.32601
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-334/2",
+      "area_hectare": 0.8181,
+      "pattadar_name": "Farida Naik",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "W15-P434",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Farida Naik",
+    "areaSqm": 8181.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623767,
+        12.32601
+      ],
+      [
+        76.624633,
+        12.32601
+      ],
+      [
+        76.624633,
+        12.32679
+      ],
+      [
+        76.623767,
+        12.32679
+      ],
+      [
+        76.623767,
+        12.32601
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W15-P434",
+      "built_up_sqft": 48433.9,
+      "property_holder": "Farida Naik",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T15:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY135",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lakshmi Kumar",
+    "areaSqm": 10996.1,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625673,
+        12.326038
+      ],
+      [
+        76.626927,
+        12.326038
+      ],
+      [
+        76.626927,
+        12.326762
+      ],
+      [
+        76.625673,
+        12.326762
+      ],
+      [
+        76.625673,
+        12.326038
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY135",
+      "plot_area_ac": 2.717,
+      "owner": "Lakshmi Kumar",
+      "village_lgd_code": 10035
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-335/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lakshmi Kumar",
+    "areaSqm": 10996.1,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625589,
+        12.326127
+      ],
+      [
+        76.626843,
+        12.326127
+      ],
+      [
+        76.626843,
+        12.326851
+      ],
+      [
+        76.625589,
+        12.326851
+      ],
+      [
+        76.625589,
+        12.326127
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-335/2",
+      "area_hectare": 1.0996,
+      "pattadar_name": "Lakshmi Kumar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY136",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Farida Gowda",
+    "areaSqm": 10407.8,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627938,
+        12.325935
+      ],
+      [
+        76.628862,
+        12.325935
+      ],
+      [
+        76.628862,
+        12.326865
+      ],
+      [
+        76.627938,
+        12.326865
+      ],
+      [
+        76.627938,
+        12.325935
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY136",
+      "plot_area_ac": 2.572,
+      "owner": "Farida Gowda",
+      "village_lgd_code": 10036
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-336/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Farida Gowda",
+    "areaSqm": 10407.8,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627938,
+        12.325935
+      ],
+      [
+        76.628862,
+        12.325935
+      ],
+      [
+        76.628862,
+        12.326865
+      ],
+      [
+        76.627938,
+        12.326865
+      ],
+      [
+        76.627938,
+        12.325935
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-336/2",
+      "area_hectare": 1.0408,
+      "pattadar_name": "Farida Gowda",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY137",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Srinivas Naik",
+    "areaSqm": 11559.2,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.629899,
+        12.326003
+      ],
+      [
+        76.631101,
+        12.326003
+      ],
+      [
+        76.631101,
+        12.326797
+      ],
+      [
+        76.629899,
+        12.326797
+      ],
+      [
+        76.629899,
+        12.326003
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY137",
+      "plot_area_ac": 2.856,
+      "owner": "Srinivas Naik",
+      "village_lgd_code": 10037
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-337/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Srinivas Naik",
+    "areaSqm": 11559.2,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.629944,
+        12.326086
+      ],
+      [
+        76.631146,
+        12.326086
+      ],
+      [
+        76.631146,
+        12.32688
+      ],
+      [
+        76.629944,
+        12.32688
+      ],
+      [
+        76.629944,
+        12.326086
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-337/2",
+      "area_hectare": 1.1559,
+      "pattadar_name": "Srinivas Naik",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W6-P437",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Srinivas Naik",
+    "areaSqm": 11559.2,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.629899,
+        12.326003
+      ],
+      [
+        76.631101,
+        12.326003
+      ],
+      [
+        76.631101,
+        12.326797
+      ],
+      [
+        76.629899,
+        12.326797
+      ],
+      [
+        76.629899,
+        12.326003
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W6-P437",
+      "built_up_sqft": 68432.1,
+      "property_holder": "Srinivas Naik",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY138",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Ramesh Setty",
+    "areaSqm": 14096.5,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63199,
+        12.325923
+      ],
+      [
+        76.63321,
+        12.325923
+      ],
+      [
+        76.63321,
+        12.326877
+      ],
+      [
+        76.63199,
+        12.326877
+      ],
+      [
+        76.63199,
+        12.325923
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY138",
+      "plot_area_ac": 3.483,
+      "owner": "Ramesh Setty",
+      "village_lgd_code": 10038
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-338/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Ramesh Setty",
+    "areaSqm": 14096.5,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63199,
+        12.325923
+      ],
+      [
+        76.63321,
+        12.325923
+      ],
+      [
+        76.63321,
+        12.326877
+      ],
+      [
+        76.63199,
+        12.326877
+      ],
+      [
+        76.63199,
+        12.325923
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-338/2",
+      "area_hectare": 1.4097,
+      "pattadar_name": "Ramesh Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "W7-P438",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Ramesh Setty",
+    "areaSqm": 14096.5,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63199,
+        12.325923
+      ],
+      [
+        76.63321,
+        12.325923
+      ],
+      [
+        76.63321,
+        12.326877
+      ],
+      [
+        76.63199,
+        12.326877
+      ],
+      [
+        76.63199,
+        12.325923
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W7-P438",
+      "built_up_sqft": 83453.3,
+      "property_holder": "Ramesh Setty",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA139",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Jayamma Kumar",
+    "areaSqm": 11650.5,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634057,
+        12.326026
+      ],
+      [
+        76.635343,
+        12.326026
+      ],
+      [
+        76.635343,
+        12.326774
+      ],
+      [
+        76.634057,
+        12.326774
+      ],
+      [
+        76.634057,
+        12.326026
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA139",
+      "plot_area_ac": 2.879,
+      "owner": "Jayamma Kumar",
+      "village_lgd_code": 10039
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-339/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Jayamma Kumar",
+    "areaSqm": 11650.5,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634057,
+        12.326026
+      ],
+      [
+        76.635343,
+        12.326026
+      ],
+      [
+        76.635343,
+        12.326774
+      ],
+      [
+        76.634057,
+        12.326774
+      ],
+      [
+        76.634057,
+        12.326026
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-339/3B",
+      "area_hectare": 1.165,
+      "pattadar_name": "Jayamma Kumar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "W11-P404",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Jayamma Kumar",
+    "areaSqm": 11650.5,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634057,
+        12.326026
+      ],
+      [
+        76.635343,
+        12.326026
+      ],
+      [
+        76.635343,
+        12.326774
+      ],
+      [
+        76.634057,
+        12.326774
+      ],
+      [
+        76.634057,
+        12.326026
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W11-P404",
+      "built_up_sqft": 68972.6,
+      "property_holder": "Jayamma Kumar",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY140",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lata Reddy",
+    "areaSqm": 11539.1,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619958,
+        12.327629
+      ],
+      [
+        76.621242,
+        12.327629
+      ],
+      [
+        76.621242,
+        12.328371
+      ],
+      [
+        76.619958,
+        12.328371
+      ],
+      [
+        76.619958,
+        12.327629
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY140",
+      "plot_area_ac": 2.851,
+      "owner": "Lata Reddy",
+      "village_lgd_code": 10040
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-340/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lata Reddy",
+    "areaSqm": 11539.1,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619958,
+        12.327629
+      ],
+      [
+        76.621242,
+        12.327629
+      ],
+      [
+        76.621242,
+        12.328371
+      ],
+      [
+        76.619958,
+        12.328371
+      ],
+      [
+        76.619958,
+        12.327629
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-340/1",
+      "area_hectare": 1.1539,
+      "pattadar_name": "Lata Reddy",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY141",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Devaraj Patil",
+    "areaSqm": 12592.7,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622177,
+        12.327503
+      ],
+      [
+        76.623223,
+        12.327503
+      ],
+      [
+        76.623223,
+        12.328497
+      ],
+      [
+        76.622177,
+        12.328497
+      ],
+      [
+        76.622177,
+        12.327503
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY141",
+      "plot_area_ac": 3.112,
+      "owner": "Devaraj Patil",
+      "village_lgd_code": 10041
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-341/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Devaraj Patil",
+    "areaSqm": 12592.7,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622177,
+        12.327503
+      ],
+      [
+        76.623223,
+        12.327503
+      ],
+      [
+        76.623223,
+        12.328497
+      ],
+      [
+        76.622177,
+        12.328497
+      ],
+      [
+        76.622177,
+        12.327503
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-341/1",
+      "area_hectare": 1.2593,
+      "pattadar_name": "Devaraj Patil",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "W10-P441",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Devaraj Patil",
+    "areaSqm": 12592.7,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622177,
+        12.327503
+      ],
+      [
+        76.623223,
+        12.327503
+      ],
+      [
+        76.623223,
+        12.328497
+      ],
+      [
+        76.622177,
+        12.328497
+      ],
+      [
+        76.622177,
+        12.327503
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W10-P441",
+      "built_up_sqft": 74550.6,
+      "property_holder": "Devaraj Patil",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T15:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY142",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Chaya Reddy",
+    "areaSqm": 10027.2,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624375,
+        12.327513
+      ],
+      [
+        76.625225,
+        12.327513
+      ],
+      [
+        76.625225,
+        12.328487
+      ],
+      [
+        76.624375,
+        12.328487
+      ],
+      [
+        76.624375,
+        12.327513
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY142",
+      "plot_area_ac": 2.478,
+      "owner": "Chaya Reddy",
+      "village_lgd_code": 10042
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-342/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Chaya Reddy",
+    "areaSqm": 10027.2,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624375,
+        12.327513
+      ],
+      [
+        76.625225,
+        12.327513
+      ],
+      [
+        76.625225,
+        12.328487
+      ],
+      [
+        76.624375,
+        12.328487
+      ],
+      [
+        76.624375,
+        12.327513
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-342/2",
+      "area_hectare": 1.0027,
+      "pattadar_name": "Chaya Reddy",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W11-P442",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Chaya Reddy",
+    "areaSqm": 10027.2,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624375,
+        12.327513
+      ],
+      [
+        76.625225,
+        12.327513
+      ],
+      [
+        76.625225,
+        12.328487
+      ],
+      [
+        76.624375,
+        12.328487
+      ],
+      [
+        76.624375,
+        12.327513
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W11-P442",
+      "built_up_sqft": 59362.5,
+      "property_holder": "Chaya Reddy",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY143",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Anitha Shetty",
+    "areaSqm": 12071.2,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626335,
+        12.327559
+      ],
+      [
+        76.627465,
+        12.327559
+      ],
+      [
+        76.627465,
+        12.328441
+      ],
+      [
+        76.626335,
+        12.328441
+      ],
+      [
+        76.626335,
+        12.327559
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY143",
+      "plot_area_ac": 2.983,
+      "owner": "Anitha Shetty",
+      "village_lgd_code": 10043
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-343/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Anitha Shetty",
+    "areaSqm": 12071.2,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626335,
+        12.327559
+      ],
+      [
+        76.627465,
+        12.327559
+      ],
+      [
+        76.627465,
+        12.328441
+      ],
+      [
+        76.626335,
+        12.328441
+      ],
+      [
+        76.626335,
+        12.327559
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-343/1",
+      "area_hectare": 1.2071,
+      "pattadar_name": "Anitha Shetty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W12-P443",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Anitha Shetty",
+    "areaSqm": 12071.2,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626335,
+        12.327559
+      ],
+      [
+        76.627465,
+        12.327559
+      ],
+      [
+        76.627465,
+        12.328441
+      ],
+      [
+        76.626335,
+        12.328441
+      ],
+      [
+        76.626335,
+        12.327559
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W12-P443",
+      "built_up_sqft": 71463.3,
+      "property_holder": "Anitha Shetty",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA144",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Farida Reddy",
+    "areaSqm": 11898.6,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628418,
+        12.327578
+      ],
+      [
+        76.629582,
+        12.327578
+      ],
+      [
+        76.629582,
+        12.328422
+      ],
+      [
+        76.628418,
+        12.328422
+      ],
+      [
+        76.628418,
+        12.327578
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA144",
+      "plot_area_ac": 2.94,
+      "owner": "Farida Reddy",
+      "village_lgd_code": 10044
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-344/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Farida Reddy",
+    "areaSqm": 15797.1,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628418,
+        12.327578
+      ],
+      [
+        76.629582,
+        12.327578
+      ],
+      [
+        76.629582,
+        12.328422
+      ],
+      [
+        76.628418,
+        12.328422
+      ],
+      [
+        76.628418,
+        12.327578
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-344/2",
+      "area_hectare": 1.5797,
+      "pattadar_name": "Farida Reddy",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "W13-P444",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Farida Reddy",
+    "areaSqm": 11898.6,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628418,
+        12.327578
+      ],
+      [
+        76.629582,
+        12.327578
+      ],
+      [
+        76.629582,
+        12.328422
+      ],
+      [
+        76.628418,
+        12.328422
+      ],
+      [
+        76.628418,
+        12.327578
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W13-P444",
+      "built_up_sqft": 70441.4,
+      "property_holder": "Farida Reddy",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY145",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Girish Iyengar",
+    "areaSqm": 8646.0,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630607,
+        12.327638
+      ],
+      [
+        76.631593,
+        12.327638
+      ],
+      [
+        76.631593,
+        12.328362
+      ],
+      [
+        76.630607,
+        12.328362
+      ],
+      [
+        76.630607,
+        12.327638
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY145",
+      "plot_area_ac": 2.136,
+      "owner": "Girish Iyengar",
+      "village_lgd_code": 10045
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-345/1A",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Girish Iyengar",
+    "areaSqm": 8646.0,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630607,
+        12.327638
+      ],
+      [
+        76.631593,
+        12.327638
+      ],
+      [
+        76.631593,
+        12.328362
+      ],
+      [
+        76.630607,
+        12.328362
+      ],
+      [
+        76.630607,
+        12.327638
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-345/1A",
+      "area_hectare": 0.8646,
+      "pattadar_name": "Girish Iyengar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "W14-P445",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Girish Iyengar",
+    "areaSqm": 8646.0,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630607,
+        12.327638
+      ],
+      [
+        76.631593,
+        12.327638
+      ],
+      [
+        76.631593,
+        12.328362
+      ],
+      [
+        76.630607,
+        12.328362
+      ],
+      [
+        76.630607,
+        12.327638
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W14-P445",
+      "built_up_sqft": 51185.6,
+      "property_holder": "Girish Iyengar",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY146",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Manjunath Rao",
+    "areaSqm": 14426.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632596,
+        12.327507
+      ],
+      [
+        76.633804,
+        12.327507
+      ],
+      [
+        76.633804,
+        12.328493
+      ],
+      [
+        76.632596,
+        12.328493
+      ],
+      [
+        76.632596,
+        12.327507
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY146",
+      "plot_area_ac": 3.565,
+      "owner": "Manjunath Rao",
+      "village_lgd_code": 10046
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-346/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lata Kumar",
+    "areaSqm": 14426.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632596,
+        12.327507
+      ],
+      [
+        76.633804,
+        12.327507
+      ],
+      [
+        76.633804,
+        12.328493
+      ],
+      [
+        76.632596,
+        12.328493
+      ],
+      [
+        76.632596,
+        12.327507
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-346/2",
+      "area_hectare": 1.4426,
+      "pattadar_name": "Lata Kumar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "W15-P446",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Manjunath Rao",
+    "areaSqm": 14426.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632596,
+        12.327507
+      ],
+      [
+        76.633804,
+        12.327507
+      ],
+      [
+        76.633804,
+        12.328493
+      ],
+      [
+        76.632596,
+        12.328493
+      ],
+      [
+        76.632596,
+        12.327507
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W15-P446",
+      "built_up_sqft": 85404.0,
+      "property_holder": "Manjunath Rao",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY147",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Harini Patil",
+    "areaSqm": 7491.3,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63483,
+        12.327671
+      ],
+      [
+        76.63577,
+        12.327671
+      ],
+      [
+        76.63577,
+        12.328329
+      ],
+      [
+        76.63483,
+        12.328329
+      ],
+      [
+        76.63483,
+        12.327671
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY147",
+      "plot_area_ac": 1.851,
+      "owner": "Harini Patil",
+      "village_lgd_code": 10047
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-347/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Harini Patil",
+    "areaSqm": 7491.3,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634786,
+        12.327755
+      ],
+      [
+        76.635726,
+        12.327755
+      ],
+      [
+        76.635726,
+        12.328413
+      ],
+      [
+        76.634786,
+        12.328413
+      ],
+      [
+        76.634786,
+        12.327755
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-347/2",
+      "area_hectare": 0.7491,
+      "pattadar_name": "Harini Patil",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "W16-P447",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Harini Patil",
+    "areaSqm": 7491.3,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.63483,
+        12.327671
+      ],
+      [
+        76.63577,
+        12.327671
+      ],
+      [
+        76.63577,
+        12.328329
+      ],
+      [
+        76.63483,
+        12.328329
+      ],
+      [
+        76.63483,
+        12.327671
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W16-P447",
+      "built_up_sqft": 44349.6,
+      "property_holder": "Harini Patil",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY148",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Farida Setty",
+    "areaSqm": 9049.7,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619427,
+        12.329274
+      ],
+      [
+        76.620573,
+        12.329274
+      ],
+      [
+        76.620573,
+        12.329926
+      ],
+      [
+        76.619427,
+        12.329926
+      ],
+      [
+        76.619427,
+        12.329274
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY148",
+      "plot_area_ac": 2.236,
+      "owner": "Farida Setty",
+      "village_lgd_code": 10048
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-348/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Farida Setty",
+    "areaSqm": 9049.7,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.619427,
+        12.329274
+      ],
+      [
+        76.620573,
+        12.329274
+      ],
+      [
+        76.620573,
+        12.329926
+      ],
+      [
+        76.619427,
+        12.329926
+      ],
+      [
+        76.619427,
+        12.329274
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-348/1",
+      "area_hectare": 0.905,
+      "pattadar_name": "Farida Setty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA149",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lakshmi Iyengar",
+    "areaSqm": 8770.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621558,
+        12.329266
+      ],
+      [
+        76.622642,
+        12.329266
+      ],
+      [
+        76.622642,
+        12.329934
+      ],
+      [
+        76.621558,
+        12.329934
+      ],
+      [
+        76.621558,
+        12.329266
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA149",
+      "plot_area_ac": 2.167,
+      "owner": "Lakshmi Iyengar",
+      "village_lgd_code": 10049
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-349/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lakshmi Iyengar",
+    "areaSqm": 8770.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621558,
+        12.329266
+      ],
+      [
+        76.622642,
+        12.329266
+      ],
+      [
+        76.622642,
+        12.329934
+      ],
+      [
+        76.621558,
+        12.329934
+      ],
+      [
+        76.621558,
+        12.329266
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-349/2",
+      "area_hectare": 0.877,
+      "pattadar_name": "Lakshmi Iyengar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W6-P449",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Lakshmi Iyengar",
+    "areaSqm": 8770.2,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.621558,
+        12.329266
+      ],
+      [
+        76.622642,
+        12.329266
+      ],
+      [
+        76.622642,
+        12.329934
+      ],
+      [
+        76.621558,
+        12.329934
+      ],
+      [
+        76.621558,
+        12.329266
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W6-P449",
+      "built_up_sqft": 51920.9,
+      "property_holder": "Lakshmi Iyengar",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY150",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Lata Shetty",
+    "areaSqm": 13446.9,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623553,
+        12.329171
+      ],
+      [
+        76.624847,
+        12.329171
+      ],
+      [
+        76.624847,
+        12.330029
+      ],
+      [
+        76.623553,
+        12.330029
+      ],
+      [
+        76.623553,
+        12.329171
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY150",
+      "plot_area_ac": 3.323,
+      "owner": "Lata Shetty",
+      "village_lgd_code": 10050
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-350/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Lata Shetty",
+    "areaSqm": 13446.9,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.623553,
+        12.329171
+      ],
+      [
+        76.624847,
+        12.329171
+      ],
+      [
+        76.624847,
+        12.330029
+      ],
+      [
+        76.623553,
+        12.330029
+      ],
+      [
+        76.623553,
+        12.329171
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-350/3B",
+      "area_hectare": 1.3447,
+      "pattadar_name": "Lata Shetty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY151",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Girish Rao",
+    "areaSqm": 8978.3,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625775,
+        12.329247
+      ],
+      [
+        76.626825,
+        12.329247
+      ],
+      [
+        76.626825,
+        12.329953
+      ],
+      [
+        76.625775,
+        12.329953
+      ],
+      [
+        76.625775,
+        12.329247
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY151",
+      "plot_area_ac": 2.219,
+      "owner": "Girish Rao",
+      "village_lgd_code": 10051
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-351/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Girish Rao",
+    "areaSqm": 11790.0,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625775,
+        12.329247
+      ],
+      [
+        76.626825,
+        12.329247
+      ],
+      [
+        76.626825,
+        12.329953
+      ],
+      [
+        76.625775,
+        12.329953
+      ],
+      [
+        76.625775,
+        12.329247
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-351/3B",
+      "area_hectare": 1.179,
+      "pattadar_name": "Girish Rao",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "W8-P451",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Girish Rao",
+    "areaSqm": 8978.3,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.625775,
+        12.329247
+      ],
+      [
+        76.626825,
+        12.329247
+      ],
+      [
+        76.626825,
+        12.329953
+      ],
+      [
+        76.625775,
+        12.329953
+      ],
+      [
+        76.625775,
+        12.329247
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W8-P451",
+      "built_up_sqft": 53152.8,
+      "property_holder": "Girish Rao",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY152",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Srinivas Kumar",
+    "areaSqm": 11423.7,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627876,
+        12.32915
+      ],
+      [
+        76.628924,
+        12.32915
+      ],
+      [
+        76.628924,
+        12.33005
+      ],
+      [
+        76.627876,
+        12.33005
+      ],
+      [
+        76.627876,
+        12.32915
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY152",
+      "plot_area_ac": 2.823,
+      "owner": "Srinivas Kumar",
+      "village_lgd_code": 10052
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-352/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Srinivas Kumar",
+    "areaSqm": 11423.7,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627876,
+        12.32915
+      ],
+      [
+        76.628924,
+        12.32915
+      ],
+      [
+        76.628924,
+        12.33005
+      ],
+      [
+        76.627876,
+        12.33005
+      ],
+      [
+        76.627876,
+        12.32915
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-352/2",
+      "area_hectare": 1.1424,
+      "pattadar_name": "Srinivas Kumar",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "W9-P452",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Srinivas Kumar",
+    "areaSqm": 11423.7,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.627876,
+        12.32915
+      ],
+      [
+        76.628924,
+        12.32915
+      ],
+      [
+        76.628924,
+        12.33005
+      ],
+      [
+        76.627876,
+        12.33005
+      ],
+      [
+        76.627876,
+        12.32915
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W9-P452",
+      "built_up_sqft": 67630.0,
+      "property_holder": "Srinivas Kumar",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY153",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Nagaraj Urs",
+    "areaSqm": 8716.9,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630041,
+        12.329208
+      ],
+      [
+        76.630959,
+        12.329208
+      ],
+      [
+        76.630959,
+        12.329992
+      ],
+      [
+        76.630041,
+        12.329992
+      ],
+      [
+        76.630041,
+        12.329208
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY153",
+      "plot_area_ac": 2.154,
+      "owner": "Nagaraj Urs",
+      "village_lgd_code": 10053
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-353/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Nagaraj Urs",
+    "areaSqm": 8716.9,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630041,
+        12.329208
+      ],
+      [
+        76.630959,
+        12.329208
+      ],
+      [
+        76.630959,
+        12.329992
+      ],
+      [
+        76.630041,
+        12.329992
+      ],
+      [
+        76.630041,
+        12.329208
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-353/2",
+      "area_hectare": 0.8717,
+      "pattadar_name": "Nagaraj Urs",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "W10-P453",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Nagaraj Urs",
+    "areaSqm": 8716.9,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630041,
+        12.329208
+      ],
+      [
+        76.630959,
+        12.329208
+      ],
+      [
+        76.630959,
+        12.329992
+      ],
+      [
+        76.630041,
+        12.329992
+      ],
+      [
+        76.630041,
+        12.329208
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W10-P453",
+      "built_up_sqft": 51605.3,
+      "property_holder": "Nagaraj Urs",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA154",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Devaraj Patil",
+    "areaSqm": 9076.9,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632081,
+        12.329239
+      ],
+      [
+        76.633119,
+        12.329239
+      ],
+      [
+        76.633119,
+        12.329961
+      ],
+      [
+        76.632081,
+        12.329961
+      ],
+      [
+        76.632081,
+        12.329239
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA154",
+      "plot_area_ac": 2.243,
+      "owner": "Devaraj Patil",
+      "village_lgd_code": 10054
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-354/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Devaraj Patil",
+    "areaSqm": 9076.9,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632081,
+        12.329239
+      ],
+      [
+        76.633119,
+        12.329239
+      ],
+      [
+        76.633119,
+        12.329961
+      ],
+      [
+        76.632081,
+        12.329961
+      ],
+      [
+        76.632081,
+        12.329239
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-354/3B",
+      "area_hectare": 0.9077,
+      "pattadar_name": "Devaraj Patil",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W14-P405",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Devaraj Patil",
+    "areaSqm": 9076.9,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.632081,
+        12.329239
+      ],
+      [
+        76.633119,
+        12.329239
+      ],
+      [
+        76.633119,
+        12.329961
+      ],
+      [
+        76.632081,
+        12.329961
+      ],
+      [
+        76.632081,
+        12.329239
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W14-P405",
+      "built_up_sqft": 53736.6,
+      "property_holder": "Devaraj Patil",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY155",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Jayamma Shetty",
+    "areaSqm": 11158.6,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634196,
+        12.329143
+      ],
+      [
+        76.635204,
+        12.329143
+      ],
+      [
+        76.635204,
+        12.330057
+      ],
+      [
+        76.634196,
+        12.330057
+      ],
+      [
+        76.634196,
+        12.329143
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY155",
+      "plot_area_ac": 2.757,
+      "owner": "Jayamma Shetty",
+      "village_lgd_code": 10055
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-355/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Jayamma Shetty",
+    "areaSqm": 11158.6,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634111,
+        12.329092
+      ],
+      [
+        76.635119,
+        12.329092
+      ],
+      [
+        76.635119,
+        12.330006
+      ],
+      [
+        76.634111,
+        12.330006
+      ],
+      [
+        76.634111,
+        12.329092
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-355/3B",
+      "area_hectare": 1.1159,
+      "pattadar_name": "Jayamma Shetty",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W12-P455",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Jayamma Shetty",
+    "areaSqm": 11158.6,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.634196,
+        12.329143
+      ],
+      [
+        76.635204,
+        12.329143
+      ],
+      [
+        76.635204,
+        12.330057
+      ],
+      [
+        76.634196,
+        12.330057
+      ],
+      [
+        76.634196,
+        12.329143
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W12-P455",
+      "built_up_sqft": 66060.5,
+      "property_holder": "Jayamma Shetty",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T15:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY156",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Girish Naik",
+    "areaSqm": 11088.8,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.620022,
+        12.330804
+      ],
+      [
+        76.621178,
+        12.330804
+      ],
+      [
+        76.621178,
+        12.331596
+      ],
+      [
+        76.620022,
+        12.331596
+      ],
+      [
+        76.620022,
+        12.330804
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY156",
+      "plot_area_ac": 2.74,
+      "owner": "Girish Naik",
+      "village_lgd_code": 10056
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-356/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Girish Naik",
+    "areaSqm": 11088.8,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.620022,
+        12.330804
+      ],
+      [
+        76.621178,
+        12.330804
+      ],
+      [
+        76.621178,
+        12.331596
+      ],
+      [
+        76.620022,
+        12.331596
+      ],
+      [
+        76.620022,
+        12.330804
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-356/2",
+      "area_hectare": 1.1089,
+      "pattadar_name": "Girish Naik",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "W16-P400",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Girish Naik",
+    "areaSqm": 11088.8,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.620022,
+        12.330804
+      ],
+      [
+        76.621178,
+        12.330804
+      ],
+      [
+        76.621178,
+        12.331596
+      ],
+      [
+        76.620022,
+        12.331596
+      ],
+      [
+        76.620022,
+        12.330804
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W16-P400",
+      "built_up_sqft": 65647.3,
+      "property_holder": "Girish Naik",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY157",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Geetha Gowda",
+    "areaSqm": 8604.1,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622256,
+        12.3308
+      ],
+      [
+        76.623144,
+        12.3308
+      ],
+      [
+        76.623144,
+        12.3316
+      ],
+      [
+        76.622256,
+        12.3316
+      ],
+      [
+        76.622256,
+        12.3308
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY157",
+      "plot_area_ac": 2.126,
+      "owner": "Geetha Gowda",
+      "village_lgd_code": 10057
+    },
+    "ingestedAt": "2026-08-26T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-357/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Geetha Gowda",
+    "areaSqm": 8604.1,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622256,
+        12.3308
+      ],
+      [
+        76.623144,
+        12.3308
+      ],
+      [
+        76.623144,
+        12.3316
+      ],
+      [
+        76.622256,
+        12.3316
+      ],
+      [
+        76.622256,
+        12.3308
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-357/3B",
+      "area_hectare": 0.8604,
+      "pattadar_name": "Geetha Gowda",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "W14-P457",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Geetha Gowda",
+    "areaSqm": 8604.1,
+    "village": "Bogadi",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.622256,
+        12.3308
+      ],
+      [
+        76.623144,
+        12.3308
+      ],
+      [
+        76.623144,
+        12.3316
+      ],
+      [
+        76.622256,
+        12.3316
+      ],
+      [
+        76.622256,
+        12.3308
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W14-P457",
+      "built_up_sqft": 50937.5,
+      "property_holder": "Geetha Gowda",
+      "tax_zone": "B"
+    },
+    "ingestedAt": "2026-08-24T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY158",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Srinivas Reddy",
+    "areaSqm": 11072.1,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624301,
+        12.330742
+      ],
+      [
+        76.625299,
+        12.330742
+      ],
+      [
+        76.625299,
+        12.331658
+      ],
+      [
+        76.624301,
+        12.331658
+      ],
+      [
+        76.624301,
+        12.330742
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY158",
+      "plot_area_ac": 2.736,
+      "owner": "Srinivas Reddy",
+      "village_lgd_code": 10058
+    },
+    "ingestedAt": "2026-08-26T12:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-358/3B",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Srinivas Reddy",
+    "areaSqm": 11072.1,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624301,
+        12.330742
+      ],
+      [
+        76.625299,
+        12.330742
+      ],
+      [
+        76.625299,
+        12.331658
+      ],
+      [
+        76.624301,
+        12.331658
+      ],
+      [
+        76.624301,
+        12.330742
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-358/3B",
+      "area_hectare": 1.1072,
+      "pattadar_name": "Srinivas Reddy",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "W15-P458",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Srinivas Reddy",
+    "areaSqm": 11072.1,
+    "village": "Ilwala",
+    "tehsil": "Mysuru South",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.624301,
+        12.330742
+      ],
+      [
+        76.625299,
+        12.330742
+      ],
+      [
+        76.625299,
+        12.331658
+      ],
+      [
+        76.624301,
+        12.331658
+      ],
+      [
+        76.624301,
+        12.330742
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W15-P458",
+      "built_up_sqft": 65548.4,
+      "property_holder": "Srinivas Reddy",
+      "tax_zone": "A"
+    },
+    "ingestedAt": "2026-08-24T11:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-VA159",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Kavya Urs",
+    "areaSqm": 9611.6,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626306,
+        12.330866
+      ],
+      [
+        76.627494,
+        12.330866
+      ],
+      [
+        76.627494,
+        12.331534
+      ],
+      [
+        76.626306,
+        12.331534
+      ],
+      [
+        76.626306,
+        12.330866
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-VA159",
+      "plot_area_ac": 2.375,
+      "owner": "Kavya Urs",
+      "village_lgd_code": 10059
+    },
+    "ingestedAt": "2026-08-26T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-359/1A",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Kavya Urs",
+    "areaSqm": 9611.6,
+    "village": "Varuna",
+    "tehsil": "Varuna",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.626379,
+        12.330953
+      ],
+      [
+        76.627567,
+        12.330953
+      ],
+      [
+        76.627567,
+        12.331621
+      ],
+      [
+        76.626379,
+        12.331621
+      ],
+      [
+        76.626379,
+        12.330953
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-359/1A",
+      "area_hectare": 0.9612,
+      "pattadar_name": "Kavya Urs",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T14:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY160",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Girish Rao",
+    "areaSqm": 8891.9,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628468,
+        12.330855
+      ],
+      [
+        76.629532,
+        12.330855
+      ],
+      [
+        76.629532,
+        12.331545
+      ],
+      [
+        76.628468,
+        12.331545
+      ],
+      [
+        76.628468,
+        12.330855
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY160",
+      "plot_area_ac": 2.197,
+      "owner": "Girish Rao",
+      "village_lgd_code": 10060
+    },
+    "ingestedAt": "2026-08-26T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-360/2",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Girish Rao",
+    "areaSqm": 10302.1,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628468,
+        12.330855
+      ],
+      [
+        76.629532,
+        12.330855
+      ],
+      [
+        76.629532,
+        12.331545
+      ],
+      [
+        76.628468,
+        12.331545
+      ],
+      [
+        76.628468,
+        12.330855
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-360/2",
+      "area_hectare": 1.0302,
+      "pattadar_name": "Girish Rao",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T09:00:00Z"
+  },
+  {
+    "sourceParcelId": "W5-P460",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Girish Rao",
+    "areaSqm": 8891.9,
+    "village": "Hebbal",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.628468,
+        12.330855
+      ],
+      [
+        76.629532,
+        12.330855
+      ],
+      [
+        76.629532,
+        12.331545
+      ],
+      [
+        76.628468,
+        12.331545
+      ],
+      [
+        76.628468,
+        12.330855
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W5-P460",
+      "built_up_sqft": 52641.3,
+      "property_holder": "Girish Rao",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T13:00:00Z"
+  },
+  {
+    "sourceParcelId": "KH-MY161",
+    "sourceSystem": "REVENUE",
+    "ownerName": "Anitha Patil",
+    "areaSqm": 8482.9,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630638,
+        12.330821
+      ],
+      [
+        76.631562,
+        12.330821
+      ],
+      [
+        76.631562,
+        12.331579
+      ],
+      [
+        76.630638,
+        12.331579
+      ],
+      [
+        76.630638,
+        12.330821
+      ]
+    ],
+    "rawAttributes": {
+      "khasra_no": "KH-MY161",
+      "plot_area_ac": 2.096,
+      "owner": "Anitha Patil",
+      "village_lgd_code": 10061
+    },
+    "ingestedAt": "2026-08-26T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "SY-361/1",
+    "sourceSystem": "SURVEY",
+    "ownerName": "Anitha Patil",
+    "areaSqm": 11370.3,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630638,
+        12.330821
+      ],
+      [
+        76.631562,
+        12.330821
+      ],
+      [
+        76.631562,
+        12.331579
+      ],
+      [
+        76.630638,
+        12.331579
+      ],
+      [
+        76.630638,
+        12.330821
+      ]
+    ],
+    "rawAttributes": {
+      "survey_no": "SY-361/1",
+      "area_hectare": 1.137,
+      "pattadar_name": "Anitha Patil",
+      "crs": "EPSG:32643 (UTM 43N)"
+    },
+    "ingestedAt": "2026-08-25T10:00:00Z"
+  },
+  {
+    "sourceParcelId": "W6-P461",
+    "sourceSystem": "MUNICIPAL",
+    "ownerName": "Anitha Patil",
+    "areaSqm": 8482.9,
+    "village": "Kesare",
+    "tehsil": "Mysuru North",
+    "district": "Mysuru",
+    "geometry": [
+      [
+        76.630638,
+        12.330821
+      ],
+      [
+        76.631562,
+        12.330821
+      ],
+      [
+        76.631562,
+        12.331579
+      ],
+      [
+        76.630638,
+        12.331579
+      ],
+      [
+        76.630638,
+        12.330821
+      ]
+    ],
+    "rawAttributes": {
+      "ward_plot_no": "W6-P461",
+      "built_up_sqft": 50220.0,
+      "property_holder": "Anitha Patil",
+      "tax_zone": "C"
+    },
+    "ingestedAt": "2026-08-24T14:00:00Z"
+  }
+]

@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-paper text-ink antialiased;
+}
+
+::selection {
+  background: #cbdae3;
+  color: #132433;
+}
+
+/* Subtle survey-grid backdrop used behind the main content well */
+.grid-backdrop {
+  background-image: linear-gradient(to right, rgba(30, 36, 48, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(30, 36, 48, 0.05) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+/* Leaflet overrides to match the governance theme */
+.leaflet-container {
+  font-family: var(--font-sans);
+  background: #eef1e9;
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 3px;
+  box-shadow: 0 4px 16px rgba(30, 36, 48, 0.18);
+}
+.leaflet-popup-content {
+  margin: 12px 14px;
+  font-size: 13px;
+}
+.leaflet-control-zoom a {
+  border-radius: 2px !important;
+}
+
+/* Focus visibility, kept crisp for accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid #2c4a63;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #dcd6c7;
+  border-radius: 4px;
+}

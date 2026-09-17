@@ -1,0 +1,77 @@
+[
+  {
+    "datasetId": "revenue-csv-mysuru",
+    "rules": [
+      {
+        "sourceField": "khasra_no",
+        "targetField": "parcel_id",
+        "transform": "normalize string, prefix retained"
+      },
+      {
+        "sourceField": "owner",
+        "targetField": "owner_name",
+        "transform": "trim + title-case"
+      },
+      {
+        "sourceField": "plot_area_ac",
+        "targetField": "area_sqm",
+        "transform": "acres \u2192 sqm (\u00d7 4046.86)"
+      },
+      {
+        "sourceField": "village_lgd_code",
+        "targetField": "village (lookup)",
+        "transform": "LGD code \u2192 village name"
+      }
+    ]
+  },
+  {
+    "datasetId": "survey-shapefile-mysuru",
+    "rules": [
+      {
+        "sourceField": "survey_no",
+        "targetField": "parcel_id",
+        "transform": "normalize string"
+      },
+      {
+        "sourceField": "pattadar_name",
+        "targetField": "owner_name",
+        "transform": "trim + title-case"
+      },
+      {
+        "sourceField": "area_hectare",
+        "targetField": "area_sqm",
+        "transform": "hectares \u2192 sqm (\u00d7 10,000)"
+      },
+      {
+        "sourceField": "geometry (UTM 43N)",
+        "targetField": "geometry (WGS84)",
+        "transform": "ST_Transform EPSG:32643 \u2192 EPSG:4326"
+      }
+    ]
+  },
+  {
+    "datasetId": "municipal-geojson-mysuru",
+    "rules": [
+      {
+        "sourceField": "ward_plot_no",
+        "targetField": "parcel_id",
+        "transform": "normalize string"
+      },
+      {
+        "sourceField": "property_holder",
+        "targetField": "owner_name",
+        "transform": "trim + title-case"
+      },
+      {
+        "sourceField": "built_up_sqft",
+        "targetField": "area_sqm (secondary)",
+        "transform": "sqft \u2192 sqm (\u00d7 0.0929), used for cross-check only"
+      },
+      {
+        "sourceField": "geometry",
+        "targetField": "geometry",
+        "transform": "already WGS84, pass-through"
+      }
+    ]
+  }
+]

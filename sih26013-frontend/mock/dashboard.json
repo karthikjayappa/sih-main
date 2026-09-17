@@ -1,0 +1,98 @@
+{
+  "totalParcelsIngested": 170,
+  "unifiedParcelsCreated": 62,
+  "conflictsDetected": 33,
+  "conflictsResolved": 11,
+  "parcelsBySource": [
+    {
+      "source": "REVENUE",
+      "count": 62
+    },
+    {
+      "source": "SURVEY",
+      "count": 62
+    },
+    {
+      "source": "MUNICIPAL",
+      "count": 46
+    }
+  ],
+  "conflictsByType": [
+    {
+      "type": "OWNER_MISMATCH",
+      "count": 10
+    },
+    {
+      "type": "DUPLICATE_ID",
+      "count": 5
+    },
+    {
+      "type": "AREA_MISMATCH",
+      "count": 9
+    },
+    {
+      "type": "GEOMETRY_OVERLAP",
+      "count": 9
+    }
+  ],
+  "ingestionTrend": [
+    {
+      "date": "Aug 13",
+      "records": 36
+    },
+    {
+      "date": "Aug 14",
+      "records": 40
+    },
+    {
+      "date": "Aug 15",
+      "records": 44
+    },
+    {
+      "date": "Aug 16",
+      "records": 38
+    },
+    {
+      "date": "Aug 17",
+      "records": 25
+    },
+    {
+      "date": "Aug 18",
+      "records": 21
+    },
+    {
+      "date": "Aug 19",
+      "records": 40
+    }
+  ],
+  "recentActivity": [
+    {
+      "timestamp": "2026-08-20T10:00:00Z",
+      "message": "Ingested 24 records from Municipal GeoJSON \u2014 Mysuru City Corp."
+    },
+    {
+      "timestamp": "2026-08-20T12:00:00Z",
+      "message": "Detected 6 new conflicts in Bogadi (area mismatch)"
+    },
+    {
+      "timestamp": "2026-08-21T11:00:00Z",
+      "message": "Resolved conflict for parcel UL-MY-1004"
+    },
+    {
+      "timestamp": "2026-08-21T15:00:00Z",
+      "message": "Ingested 62 records from Revenue CSV \u2014 Mysuru District"
+    },
+    {
+      "timestamp": "2026-08-22T10:00:00Z",
+      "message": "Reviewed 3 duplicate-ID conflicts in Kesare"
+    },
+    {
+      "timestamp": "2026-08-22T14:00:00Z",
+      "message": "Mapping profile updated for Survey Shapefile \u2014 Mysuru District"
+    },
+    {
+      "timestamp": "2026-08-23T11:00:00Z",
+      "message": "Ingested 45 records from Survey Shapefile \u2014 Mysuru District"
+    }
+  ]
+}

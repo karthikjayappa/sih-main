@@ -1,0 +1,170 @@
+source,record_id,district,taluk,village,survey_number,owner_name,area_sqm,land_use,data_note
+MUNICIPAL,MUN-ALUR-001,Davanagere,Davanagere,Alur,100,Owner 001 B,3454.27,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-002,Davanagere,Davanagere,Alur,101,Owner 002,1482.89,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-003,Davanagere,Davanagere,Alur,102,Owner 003,4274.78,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-004,Davanagere,Davanagere,Alur,103,Owner 004,3049.51,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-005,Davanagere,Davanagere,Alur,104,Owner 005,2826.25,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-006,Davanagere,Davanagere,Alur,105,Owner 006,3853.77,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-007,Davanagere,Davanagere,Alur,106,Owner 007,1850.41,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-008,Davanagere,Davanagere,Alur,107,Owner 008,1844.81,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-009,Davanagere,Davanagere,Alur,108,Owner 009,4737.14,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-010,Davanagere,Davanagere,Alur,109,Owner 010 B,2440.2,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-011,Davanagere,Davanagere,Alur,110,Owner 011,3078.91,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-012,Davanagere,Davanagere,Alur,111,Owner 012,2142.39,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-013,Davanagere,Davanagere,Alur,112,Owner 013,2540.02,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-014,Davanagere,Davanagere,Alur,112,Owner 014,2955.43,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-015,Davanagere,Davanagere,Alur,113,Owner 015,1744.37,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-016,Davanagere,Davanagere,Alur,113,Owner 016,3753.61,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-017,Davanagere,Davanagere,Alur,114,Owner 017,2786.08,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-018,Davanagere,Davanagere,Alur,114,Owner 018,4974.57,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-019,Davanagere,Davanagere,Alur,115,Owner 019 B,2558.79,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-020,Davanagere,Davanagere,Alur,115,Owner 020,3788.79,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-021,Davanagere,Davanagere,Alur,116,Owner 021,3383.88,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-022,Davanagere,Davanagere,Alur,117,Owner 022,4520.46,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-023,Davanagere,Davanagere,Alur,118,Owner 023,1627.91,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-024,Davanagere,Davanagere,Alur,118,Owner 024,1069.94,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-025,Davanagere,Davanagere,Alur,119,Owner 025,2527.59,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-026,Davanagere,Davanagere,Alur,119,Owner 026,1909.54,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-027,Davanagere,Davanagere,Alur,120,Owner 027,2122.9,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-028,Davanagere,Davanagere,Alur,120,Owner 028 B,3710.59,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-029,Davanagere,Davanagere,Alur,121,Owner 029,857.19,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-030,Davanagere,Davanagere,Alur,122,Owner 030,1298.25,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-031,Davanagere,Davanagere,Alur,123,Owner 031,1431.56,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-032,Davanagere,Davanagere,Alur,123,Owner 032,2796.1,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-033,Davanagere,Davanagere,Alur,124,Owner 033,2346.28,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-034,Davanagere,Davanagere,Alur,124,Owner 034,648.3,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-035,Davanagere,Davanagere,Alur,125,Owner 035,1582.66,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-036,Davanagere,Davanagere,Alur,126,Owner 036,4010.67,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-037,Davanagere,Davanagere,Alur,127,Owner 037 B,2834.32,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-038,Davanagere,Davanagere,Alur,127,Owner 038,2004.02,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-039,Davanagere,Davanagere,Alur,128,Owner 039,2303.67,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-040,Davanagere,Davanagere,Alur,129,Owner 040,842.1,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-041,Davanagere,Davanagere,Alur,148,Owner 041,2656.92,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-042,Davanagere,Davanagere,Alur,150,Owner 042,3905.43,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-043,Davanagere,Davanagere,Alur,151,Owner 043,3949.22,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-044,Davanagere,Davanagere,Alur,152,Owner 044,1490.9,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-045,Davanagere,Davanagere,Alur,153,Owner 045,3972.21,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-046,Davanagere,Davanagere,Alur,154,Owner 046 B,1682.15,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-047,Davanagere,Davanagere,Alur,155,Owner 047,3413.28,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-048,Davanagere,Davanagere,Alur,156,Owner 048,902.28,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-049,Davanagere,Davanagere,Alur,156,Owner 049,1530.42,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-050,Davanagere,Davanagere,Alur,157,Owner 050,3540.4,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-051,Davanagere,Davanagere,Alur,157,Owner 051,1126.65,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-052,Davanagere,Davanagere,Alur,158,Owner 052,3508.39,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-053,Davanagere,Davanagere,Alur,158,Owner 053,3577.2,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-054,Davanagere,Davanagere,Alur,159,Owner 054,1125.63,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-055,Davanagere,Davanagere,Alur,160,Owner 055 B,2895.59,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-056,Davanagere,Davanagere,Alur,161,Owner 056,2566.28,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-057,Davanagere,Davanagere,Alur,162,Owner 057,3827.8,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-058,Davanagere,Davanagere,Alur,163,Owner 058,2876.41,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-059,Davanagere,Davanagere,Alur,164,Owner 059,3378.58,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-060,Davanagere,Davanagere,Alur,165,Owner 060,3350.78,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-061,Davanagere,Davanagere,Alur,166,Owner 061,3369.77,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-062,Davanagere,Davanagere,Alur,167,Owner 062,2705.29,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-063,Davanagere,Davanagere,Alur,168,Owner 063,1168.69,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-064,Davanagere,Davanagere,Alur,168,Owner 064 B,1650.63,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-065,Davanagere,Davanagere,Alur,169,Owner 065,1450.96,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-066,Davanagere,Davanagere,Alur,169,Owner 066,2032.28,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-067,Davanagere,Davanagere,Alur,170,Owner 067,2242.47,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-068,Davanagere,Davanagere,Alur,171,Owner 068,749.65,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-069,Davanagere,Davanagere,Alur,172,Owner 069,4588.29,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-070,Davanagere,Davanagere,Alur,173,Owner 070,1630.76,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-071,Davanagere,Davanagere,Alur,174,Owner 071,1961.24,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-072,Davanagere,Davanagere,Alur,174,Owner 072,4831.95,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-073,Davanagere,Davanagere,Alur,175,Owner 073 B,724.51,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-074,Davanagere,Davanagere,Alur,176,Owner 074,3370.57,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-075,Davanagere,Davanagere,Alur,177,Owner 075,4523.06,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-076,Davanagere,Davanagere,Alur,178,Owner 076,3070.67,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-077,Davanagere,Davanagere,Alur,179,Owner 077,1908.11,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-078,Davanagere,Davanagere,Alur,180,Owner 078,4693.52,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-079,Davanagere,Davanagere,Alur,181,Owner 079,2853.06,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-080,Davanagere,Davanagere,Alur,182,Owner 080,3129.42,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-081,Davanagere,Davanagere,Alur,183,Owner 081,3586.1,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-082,Davanagere,Davanagere,Alur,184,Owner 082 B,2527.9,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-083,Davanagere,Davanagere,Alur,185,Owner 083,1134.87,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-084,Davanagere,Davanagere,Alur,186,Owner 084,2075.12,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-085,Davanagere,Davanagere,Alur,187,Owner 085,1341.78,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-086,Davanagere,Davanagere,Alur,188,Owner 086,1271.87,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-087,Davanagere,Davanagere,Alur,189,Owner 087,1893.77,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-088,Davanagere,Davanagere,Alur,190,Owner 088,3003.75,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-089,Davanagere,Davanagere,Alur,191,Owner 089,1874.7,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-090,Davanagere,Davanagere,Alur,192,Owner 090,4631.93,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-091,Davanagere,Davanagere,Alur,193,Owner 091 B,1787.64,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-092,Davanagere,Davanagere,Alur,194,Owner 092,848.55,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-093,Davanagere,Davanagere,Alur,195,Owner 093,2734.88,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-094,Davanagere,Davanagere,Alur,196,Owner 094,1532.09,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-095,Davanagere,Davanagere,Alur,196,Owner 095,3577.27,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-096,Davanagere,Davanagere,Alur,197,Owner 096,4889.68,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-097,Davanagere,Davanagere,Alur,199,Owner 097,1089.95,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-098,Davanagere,Davanagere,Alur,201,Owner 098,1696.85,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-099,Davanagere,Davanagere,Alur,202,Owner 099,1379.89,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-100,Davanagere,Davanagere,Alur,203,Owner 100 B,2224.36,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-101,Davanagere,Davanagere,Alur,204,Owner 101,3092.37,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-102,Davanagere,Davanagere,Alur,205,Owner 102,2166.84,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-103,Davanagere,Davanagere,Alur,206,Owner 103,3425.51,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-104,Davanagere,Davanagere,Alur,207,Owner 104,2493.26,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-105,Davanagere,Davanagere,Alur,208,Owner 105,5023.7,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-106,Davanagere,Davanagere,Alur,209,Owner 106,2506.02,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-107,Davanagere,Davanagere,Alur,210,Owner 107,4103.02,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-108,Davanagere,Davanagere,Alur,211,Owner 108,4286.82,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-109,Davanagere,Davanagere,Alur,212,Owner 109 B,3315.26,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-110,Davanagere,Davanagere,Alur,214,Owner 110,1266.27,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-111,Davanagere,Davanagere,Alur,279,Owner 111,4209.82,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-112,Davanagere,Davanagere,Alur,33,Owner 112,975.9,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-113,Davanagere,Davanagere,Alur,48,Owner 113,2400.2,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-114,Davanagere,Davanagere,Alur,49,Owner 114,4215.9,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-115,Davanagere,Davanagere,Alur,50,Owner 115,1214.01,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-116,Davanagere,Davanagere,Alur,51,Owner 116,4212.4,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-117,Davanagere,Davanagere,Alur,52,Owner 117,639.43,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-118,Davanagere,Davanagere,Alur,53,Owner 118 B,2244.94,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-119,Davanagere,Davanagere,Alur,54,Owner 119,3555.51,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-120,Davanagere,Davanagere,Alur,55,Owner 120,1363.57,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-121,Davanagere,Davanagere,Alur,55,Owner 121,2883.39,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-122,Davanagere,Davanagere,Alur,56,Owner 122,1277.25,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-123,Davanagere,Davanagere,Alur,56,Owner 123,517.13,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-124,Davanagere,Davanagere,Alur,57,Owner 124,4238.43,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-125,Davanagere,Davanagere,Alur,57,Owner 125,4910.84,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-126,Davanagere,Davanagere,Alur,61,Owner 126,892.85,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-127,Davanagere,Davanagere,Alur,62,Owner 127 B,3435.16,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-128,Davanagere,Davanagere,Alur,63,Owner 128,4909.31,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-129,Davanagere,Davanagere,Alur,64,Owner 129,1088.26,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-130,Davanagere,Davanagere,Alur,64,Owner 130,4502.32,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-131,Davanagere,Davanagere,Alur,65,Owner 131,1086.9,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-132,Davanagere,Davanagere,Alur,65,Owner 132,1004.45,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-133,Davanagere,Davanagere,Alur,66,Owner 133,1863.09,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-134,Davanagere,Davanagere,Alur,67,Owner 134,4258.63,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-135,Davanagere,Davanagere,Alur,68,Owner 135,2375.0,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-136,Davanagere,Davanagere,Alur,68,Owner 136 B,720.76,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-137,Davanagere,Davanagere,Alur,69,Owner 137,3669.59,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-138,Davanagere,Davanagere,Alur,70,Owner 138,3281.77,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-139,Davanagere,Davanagere,Alur,71,Owner 139,2957.79,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-140,Davanagere,Davanagere,Alur,72,Owner 140,3181.19,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-141,Davanagere,Davanagere,Alur,73,Owner 141,3217.9,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-142,Davanagere,Davanagere,Alur,74,Owner 142,4519.99,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-143,Davanagere,Davanagere,Alur,75,Owner 143,2520.4,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-144,Davanagere,Davanagere,Alur,76,Owner 144,2176.54,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-145,Davanagere,Davanagere,Alur,77,Owner 145 B,659.09,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-146,Davanagere,Davanagere,Alur,78,Owner 146,1531.29,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-147,Davanagere,Davanagere,Alur,79,Owner 147,1537.5,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-148,Davanagere,Davanagere,Alur,80,Owner 148,1587.55,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-149,Davanagere,Davanagere,Alur,81,Owner 149,2621.08,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-150,Davanagere,Davanagere,Alur,81,Owner 150,2351.55,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-151,Davanagere,Davanagere,Alur,82,Owner 151,3443.39,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-152,Davanagere,Davanagere,Alur,83,Owner 152,1692.01,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-153,Davanagere,Davanagere,Alur,84,Owner 153,1876.16,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-154,Davanagere,Davanagere,Alur,85,Owner 154 B,1602.61,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-155,Davanagere,Davanagere,Alur,86,Owner 155,2244.71,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-156,Davanagere,Davanagere,Alur,87,Owner 156,2331.36,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-157,Davanagere,Davanagere,Alur,88,Owner 157,988.53,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-158,Davanagere,Davanagere,Alur,89,Owner 158,1828.93,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-159,Davanagere,Davanagere,Alur,90,Owner 159,972.2,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-160,Davanagere,Davanagere,Alur,91,Owner 160,3569.06,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-161,Davanagere,Davanagere,Alur,92,Owner 161,4754.3,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-162,Davanagere,Davanagere,Alur,93,Owner 162,1440.18,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-163,Davanagere,Davanagere,Alur,94,Owner 163 B,2601.95,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-164,Davanagere,Davanagere,Alur,94,Owner 164,849.43,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-165,Davanagere,Davanagere,Alur,95,Owner 165,700.45,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-166,Davanagere,Davanagere,Alur,96,Owner 166,2975.51,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-167,Davanagere,Davanagere,Alur,97,Owner 167,4346.59,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-168,Davanagere,Davanagere,Alur,98,Owner 168,848.59,Agricultural,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.
+MUNICIPAL,MUN-ALUR-169,Davanagere,Davanagere,Alur,99,Owner 169,2278.54,Residential,Synthetic demonstration attributes; geometry and LRI location identifiers retained from Karnataka LRI source.

@@ -1,0 +1,948 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "101/2",
+        "resident_name": "Suresh Patil",
+        "resident_id": "MUN1001",
+        "plot_size_sqm": 1600,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7896088104791,
+              19.997320337765
+            ],
+            [
+              73.7899911895209,
+              19.997320337765
+            ],
+            [
+              73.7899911895209,
+              19.997679662234997
+            ],
+            [
+              73.7896088104791,
+              19.997679662234997
+            ],
+            [
+              73.7896088104791,
+              19.997320337765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "102/3",
+        "resident_name": "Kavita Patil",
+        "resident_id": "MUN1002",
+        "plot_size_sqm": 1600,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7903735685627,
+              19.997320337765
+            ],
+            [
+              73.79075594760451,
+              19.997320337765
+            ],
+            [
+              73.79075594760451,
+              19.997679662234997
+            ],
+            [
+              73.7903735685627,
+              19.997679662234997
+            ],
+            [
+              73.7903735685627,
+              19.997320337765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "103/4",
+        "resident_name": "Sunita Patil",
+        "resident_id": "MUN1003",
+        "plot_size_sqm": 1600,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7911383266463,
+              19.997320337765
+            ],
+            [
+              73.79152070568811,
+              19.997320337765
+            ],
+            [
+              73.79152070568811,
+              19.997679662234997
+            ],
+            [
+              73.7911383266463,
+              19.997679662234997
+            ],
+            [
+              73.7911383266463,
+              19.997320337765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "104/1",
+        "resident_name": "Prakash Patil",
+        "resident_id": "MUN1004",
+        "plot_size_sqm": 1600,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79190308472992,
+              19.997320337765
+            ],
+            [
+              73.79228546377173,
+              19.997320337765
+            ],
+            [
+              73.79228546377173,
+              19.997679662234997
+            ],
+            [
+              73.79190308472992,
+              19.997679662234997
+            ],
+            [
+              73.79190308472992,
+              19.997320337765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "105/2",
+        "resident_name": "Rajesh Patil",
+        "resident_id": "MUN1005",
+        "plot_size_sqm": 1600,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79266784281353,
+              19.997320337765
+            ],
+            [
+              73.79305022185534,
+              19.997320337765
+            ],
+            [
+              73.79305022185534,
+              19.997679662234997
+            ],
+            [
+              73.79266784281353,
+              19.997679662234997
+            ],
+            [
+              73.79266784281353,
+              19.997320337765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "106/3",
+        "resident_name": "Meena Patil",
+        "resident_id": "MUN2006",
+        "plot_size_sqm": 1749.6,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79345171984923,
+              19.9973383039885
+            ],
+            [
+              73.79379586098685,
+              19.9973383039885
+            ],
+            [
+              73.79379586098685,
+              19.997661696011498
+            ],
+            [
+              73.79345171984923,
+              19.997661696011498
+            ],
+            [
+              73.79345171984923,
+              19.9973383039885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "107/4",
+        "resident_name": "Sanjay Patil",
+        "resident_id": "MUN2007",
+        "plot_size_sqm": 1749.6,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.78962792864574,
+              19.998056952928494
+            ],
+            [
+              73.78997207135426,
+              19.998056952928494
+            ],
+            [
+              73.78997207135426,
+              19.998380344951492
+            ],
+            [
+              73.78962792864574,
+              19.998380344951492
+            ],
+            [
+              73.78962792864574,
+              19.998056952928494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "108/1",
+        "resident_name": "Deepak Patil",
+        "resident_id": "MUN2008",
+        "plot_size_sqm": 1749.6,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79039268672935,
+              19.998056952928494
+            ],
+            [
+              73.79073682943786,
+              19.998056952928494
+            ],
+            [
+              73.79073682943786,
+              19.998380344951492
+            ],
+            [
+              73.79039268672935,
+              19.998380344951492
+            ],
+            [
+              73.79039268672935,
+              19.998056952928494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "109/2",
+        "resident_name": "Pooja Patil",
+        "resident_id": "MUN2009",
+        "plot_size_sqm": 1749.6,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79115744481295,
+              19.998056952928494
+            ],
+            [
+              73.79150158752147,
+              19.998056952928494
+            ],
+            [
+              73.79150158752147,
+              19.998380344951492
+            ],
+            [
+              73.79115744481295,
+              19.998380344951492
+            ],
+            [
+              73.79115744481295,
+              19.998056952928494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "110/3",
+        "resident_name": "Ashok Patil",
+        "resident_id": "MUN2010",
+        "plot_size_sqm": 1749.6,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79192220289657,
+              19.998056952928494
+            ],
+            [
+              73.79226634560509,
+              19.998056952928494
+            ],
+            [
+              73.79226634560509,
+              19.998380344951492
+            ],
+            [
+              73.79192220289657,
+              19.998380344951492
+            ],
+            [
+              73.79192220289657,
+              19.998056952928494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "120/1",
+        "resident_name": "Geeta Deshmukh",
+        "resident_id": "MUN5020",
+        "plot_size_sqm": 1387.2,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7904022447653,
+              19.99950323392023
+            ],
+            [
+              73.7907272714019,
+              19.99950323392023
+            ],
+            [
+              73.7907272714019,
+              19.999808659719726
+            ],
+            [
+              73.7904022447653,
+              19.999808659719726
+            ],
+            [
+              73.7904022447653,
+              19.99950323392023
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "121/2",
+        "resident_name": "Meena Deshmukh",
+        "resident_id": "MUN5021",
+        "plot_size_sqm": 1387.2,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79116700284891,
+              19.99950323392023
+            ],
+            [
+              73.79149202948551,
+              19.99950323392023
+            ],
+            [
+              73.79149202948551,
+              19.999808659719726
+            ],
+            [
+              73.79116700284891,
+              19.999808659719726
+            ],
+            [
+              73.79116700284891,
+              19.99950323392023
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "122/3",
+        "resident_name": "Deepak Deshmukh",
+        "resident_id": "MUN5022",
+        "plot_size_sqm": 1387.2,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79193176093253,
+              19.99950323392023
+            ],
+            [
+              73.79225678756913,
+              19.99950323392023
+            ],
+            [
+              73.79225678756913,
+              19.999808659719726
+            ],
+            [
+              73.79193176093253,
+              19.999808659719726
+            ],
+            [
+              73.79193176093253,
+              19.99950323392023
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "MUN-7038",
+        "resident_name": "Meena Jadhav",
+        "resident_id": "MUN7039",
+        "plot_size_sqm": 576,
+        "locality": "Ozar",
+        "ward": "Ward-5",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79121479931254,
+              20.00170409629896
+            ],
+            [
+              73.79144423302188,
+              20.00170409629896
+            ],
+            [
+              73.79144423302188,
+              20.001919690980955
+            ],
+            [
+              73.79121479931254,
+              20.001919690980955
+            ],
+            [
+              73.79121479931254,
+              20.00170409629896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "MUN-7039",
+        "resident_name": "Sanjay Jadhav",
+        "resident_id": "MUN7040",
+        "plot_size_sqm": 676,
+        "locality": "Ozar",
+        "ward": "Ward-5",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79196999765827,
+              20.001695113187207
+            ],
+            [
+              73.79221855084339,
+              20.001695113187207
+            ],
+            [
+              73.79221855084339,
+              20.001928674092706
+            ],
+            [
+              73.79196999765827,
+              20.001928674092706
+            ],
+            [
+              73.79196999765827,
+              20.001695113187207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "MUN-7040",
+        "resident_name": "Deepak Jadhav",
+        "resident_id": "MUN7041",
+        "plot_size_sqm": 784,
+        "locality": "Ozar",
+        "ward": "Ward-5",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79272519600399,
+              20.00168613007546
+            ],
+            [
+              73.79299286866488,
+              20.00168613007546
+            ],
+            [
+              73.79299286866488,
+              20.001937657204454
+            ],
+            [
+              73.79272519600399,
+              20.001937657204454
+            ],
+            [
+              73.79272519600399,
+              20.00168613007546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "MUN-7041",
+        "resident_name": "Pooja Jadhav",
+        "resident_id": "MUN7042",
+        "plot_size_sqm": 900,
+        "locality": "Ozar",
+        "ward": "Ward-5",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7934803943497,
+              20.001677146963708
+            ],
+            [
+              73.79376718648638,
+              20.001677146963708
+            ],
+            [
+              73.79376718648638,
+              20.001946640316206
+            ],
+            [
+              73.7934803943497,
+              20.001946640316206
+            ],
+            [
+              73.7934803943497,
+              20.001677146963708
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "MUN-7042",
+        "resident_name": "Ashok Jadhav",
+        "resident_id": "MUN7043",
+        "plot_size_sqm": 1024,
+        "locality": "Ozar",
+        "ward": "Ward-5",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7896470434954,
+              20.002386812791947
+            ],
+            [
+              73.78995295650459,
+              20.002386812791947
+            ],
+            [
+              73.78995295650459,
+              20.002674272367948
+            ],
+            [
+              73.7896470434954,
+              20.002674272367948
+            ],
+            [
+              73.7896470434954,
+              20.002386812791947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "MUN-7043",
+        "resident_name": "Nirmala Jadhav",
+        "resident_id": "MUN7044",
+        "plot_size_sqm": 1156,
+        "locality": "Ozar",
+        "ward": "Ward-5",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79040224179748,
+              20.0023778296802
+            ],
+            [
+              73.79072727436973,
+              20.0023778296802
+            ],
+            [
+              73.79072727436973,
+              20.002683255479695
+            ],
+            [
+              73.79040224179748,
+              20.002683255479695
+            ],
+            [
+              73.79040224179748,
+              20.0023778296802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "131/4",
+        "resident_name": "Vinod Jadhav",
+        "resident_id": "MUN8045",
+        "plot_size_sqm": 4356,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79101404316043,
+              20.002341897233197
+            ],
+            [
+              73.79164498917399,
+              20.002341897233197
+            ],
+            [
+              73.79164498917399,
+              20.002934782608694
+            ],
+            [
+              73.79101404316043,
+              20.002934782608694
+            ],
+            [
+              73.79101404316043,
+              20.002341897233197
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "132/1",
+        "resident_name": "Shobha Jadhav",
+        "resident_id": "MUN8046",
+        "plot_size_sqm": 4356,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79185991874354,
+              20.002310324123012
+            ],
+            [
+              73.79249086463054,
+              20.002310324123012
+            ],
+            [
+              73.79249086463054,
+              20.00290320949851
+            ],
+            [
+              73.79185991874354,
+              20.00290320949851
+            ],
+            [
+              73.79185991874354,
+              20.002310324123012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "133/2",
+        "resident_name": "Ravindra Jadhav",
+        "resident_id": "MUN8047",
+        "plot_size_sqm": 4356,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79265827692215,
+              20.0022340998922
+            ],
+            [
+              73.79328922250359,
+              20.0022340998922
+            ],
+            [
+              73.79328922250359,
+              20.002826985267696
+            ],
+            [
+              73.79265827692215,
+              20.002826985267696
+            ],
+            [
+              73.79265827692215,
+              20.0022340998922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "municipal_id": "134/3",
+        "resident_name": "Lata Jadhav",
+        "resident_id": "MUN8048",
+        "plot_size_sqm": 4356,
+        "locality": "Ozar",
+        "ward": "Ward-3",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "crs": "WGS84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.79338943521631,
+              20.002157875661386
+            ],
+            [
+              73.79402038049219,
+              20.002157875661386
+            ],
+            [
+              73.79402038049219,
+              20.002750761036882
+            ],
+            [
+              73.79338943521631,
+              20.002750761036882
+            ],
+            [
+              73.79338943521631,
+              20.002157875661386
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "revenue-csv-mysuru",
+    "name": "Revenue CSV \u2014 Mysuru District",
+    "sourceSystem": "REVENUE",
+    "format": "CSV",
+    "recordCount": 170,
+    "lastIngestedAt": "2026-08-26T09:00:00Z",
+    "status": "SUCCESS",
+    "sampleFields": [
+      "khasra_no",
+      "owner",
+      "plot_area_ac",
+      "village_lgd_code",
+      "tehsil"
+    ]
+  },
+  {
+    "id": "survey-shapefile-mysuru",
+    "name": "Survey Shapefile \u2014 Mysuru District",
+    "sourceSystem": "SURVEY",
+    "format": "SHAPEFILE",
+    "recordCount": 62,
+    "lastIngestedAt": "2026-08-25T09:00:00Z",
+    "status": "SUCCESS",
+    "sampleFields": [
+      "survey_no",
+      "pattadar_name",
+      "area_hectare",
+      "crs",
+      "geometry"
+    ]
+  },
+  {
+    "id": "municipal-geojson-mysuru",
+    "name": "Municipal GeoJSON \u2014 Mysuru City Corp.",
+    "sourceSystem": "MUNICIPAL",
+    "format": "GEOJSON",
+    "recordCount": 46,
+    "lastIngestedAt": "2026-08-24T09:00:00Z",
+    "status": "PARTIAL",
+    "sampleFields": [
+      "ward_plot_no",
+      "property_holder",
+      "built_up_sqft",
+      "tax_zone",
+      "geometry"
+    ]
+  }
+]
