@@ -1,22 +1,32 @@
 "use client";
 
 import "leaflet/dist/leaflet.css";
-import { MapContainer, TileLayer, Polygon, Popup, useMap } from "react-leaflet";
+import { MapContainer, TileLayer, GeoJSON, Popup, useMap } from "react-leaflet";
 import { useEffect } from "react";
-import type { UnifiedParcel, SourceParcel } from "@/lib/types";
+import type { ParcelGeometry, UnifiedParcel, SourceParcel } from "@/lib/types";
 import { SOURCE_COLOR, SOURCE_LABEL, formatArea } from "@/lib/utils";
 
-const CENTER: [number, number] = [12.324, 76.625];
+const FALLBACK_CENTER: [number, number] = [14.4644, 75.9218];
 
-function toLatLngs(geometry: [number, number][]): [number, number][] {
-  return geometry.map(([lng, lat]) => [lat, lng]);
+function geometryPoints(geometry: ParcelGeometry): [number, number][] {
+  const points: [number, number][] = [];
+  const visit = (value: unknown): void => {
+    if (Array.isArray(value) && typeof value[0] === "number" && typeof value[1] === "number") {
+      points.push([value[1], value[0]]);
+      return;
+    }
+    if (Array.isArray(value)) value.forEach(visit);
+  };
+  visit(geometry.coordinates);
+  return points;
 }
 
 function FlyToParcel({ parcel }: { parcel: UnifiedParcel | null }) {
   const map = useMap();
   useEffect(() => {
     if (!parcel) return;
-    const latlngs = toLatLngs(parcel.geometry);
+    const latlngs = geometryPoints(parcel.geometry);
+    if (latlngs.length === 0) return;
     const lat = latlngs.reduce((s, p) => s + p[0], 0) / latlngs.length;
     const lng = latlngs.reduce((s, p) => s + p[1], 0) / latlngs.length;
     map.flyTo([lat, lng], 18, { duration: 0.6 });
@@ -37,8 +47,11 @@ export function ParcelMap({
   flyToParcel: UnifiedParcel | null;
   onSelectUnified: (parcel: UnifiedParcel) => void;
 }) {
+  const allParcels = [...unifiedParcels, ...sourceParcels];
+  const firstPoint = allParcels.flatMap((parcel) => geometryPoints(parcel.geometry))[0];
+
   return (
-    <MapContainer center={CENTER} zoom={15} className="h-full w-full" scrollWheelZoom>
+    <MapContainer center={firstPoint || FALLBACK_CENTER} zoom={15} className="h-full w-full" scrollWheelZoom>
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -47,9 +60,9 @@ export function ParcelMap({
 
       {mode === "before" &&
         sourceParcels.map((sp, i) => (
-          <Polygon
+          <GeoJSON
             key={`${sp.sourceSystem}-${sp.sourceParcelId}-${i}`}
-            positions={toLatLngs(sp.geometry)}
+            data={{ type: "Feature", properties: {}, geometry: sp.geometry } as any}
             pathOptions={{
               color: SOURCE_COLOR[sp.sourceSystem],
               weight: 1.5,
@@ -68,14 +81,14 @@ export function ParcelMap({
                 </p>
               </div>
             </Popup>
-          </Polygon>
+          </GeoJSON>
         ))}
 
       {mode === "after" &&
         unifiedParcels.map((up) => (
-          <Polygon
+          <GeoJSON
             key={up.unifiedParcelId}
-            positions={toLatLngs(up.geometry)}
+            data={{ type: "Feature", properties: {}, geometry: up.geometry } as any}
             eventHandlers={{ click: () => onSelectUnified(up) }}
             pathOptions={{
               color: up.conflictFlag ? "#B5502D" : "#3C6E52",
@@ -96,7 +109,7 @@ export function ParcelMap({
                 )}
               </div>
             </Popup>
-          </Polygon>
+          </GeoJSON>
         ))}
     </MapContainer>
   );

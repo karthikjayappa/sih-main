@@ -101,7 +101,7 @@ export async function updateConflictStatus(
       ...parcel.auditLog,
       {
         timestamp: new Date().toISOString(),
-        actor: payload.resolvedBy || "officer.demo",
+        actor: payload.resolvedBy || "system",
         action: payload.status,
         detail: payload.notes || `Status changed to ${payload.status}`,
       },

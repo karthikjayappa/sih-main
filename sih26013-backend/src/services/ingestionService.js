@@ -89,6 +89,10 @@ async function ingestFile({ filePath, fileType, sourceSystem, mappingProfileId }
       }
 
       const { geometryWkt, geometryGeoJSON } = resolveGeometry(mapped, featureGeometries[i]);
+      const rawAttributes = { ...unmapped };
+      if (rawRows[i].survey_number !== undefined && rawRows[i].survey_number !== null) {
+        rawAttributes.survey_number = rawRows[i].survey_number;
+      }
 
       await sourceParcelRepo.insert({
         parcelId: String(mapped.parcel_id),
@@ -104,7 +108,7 @@ async function ingestFile({ filePath, fileType, sourceSystem, mappingProfileId }
         coordinateSystem: mapped.coordinate_system || null,
         geometryGeoJSON,
         geometryWkt,
-        rawAttributes: unmapped,
+        rawAttributes,
       });
       results.ingested += 1;
     } catch (err) {

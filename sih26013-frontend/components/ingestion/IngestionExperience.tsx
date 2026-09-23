@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Dataset, MappingProfile } from "@/lib/types";
-import { getMappingProfile } from "@/lib/mockApi";
+import { getMappingProfile } from "@/lib/api";
 import { DatasetCard } from "./DatasetCard";
 import { MappingTable } from "./MappingTable";
 import { IngestionRunner } from "./IngestionRunner";

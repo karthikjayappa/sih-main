@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import type { UnifiedParcel } from "@/lib/types";
-import { getConflicts, updateConflictStatus, type ConflictFilterParams } from "@/lib/mockApi";
+import { getConflicts, updateConflictStatus, type ConflictFilterParams } from "@/lib/api";
 import { ConflictFilters } from "./ConflictFilters";
 import { ConflictsTable } from "./ConflictsTable";
 import { ConflictDetail } from "./ConflictDetail";
@@ -30,7 +30,6 @@ export function ConflictsExperience({ allVillages, allTehsils }: { allVillages: 
     const updated = await updateConflictStatus(selected.unifiedParcelId, {
       status,
       notes: note || undefined,
-      resolvedBy: "officer.demo",
     });
     if (updated) {
       setSelected(updated);

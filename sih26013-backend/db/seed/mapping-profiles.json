@@ -1,56 +1,50 @@
 [
   {
-    "profile_id": "REVENUE_CSV_V1",
+    "profile_id": "ALUR_REVENUE_GEOJSON_V1",
     "source_system": "REVENUE",
-    "file_type": "CSV",
-    "description": "Revenue department khasra-based CSV export",
+    "file_type": "GEOJSON",
+    "description": "Alur revenue parcel GeoJSON export, Davanagere Taluk, Karnataka",
     "field_mappings": {
-      "khasra_no":        { "target": "parcel_id" },
-      "owner":            { "target": "owner_name" },
-      "owner_aadhaar":    { "target": "owner_id" },
-      "area_acre":        { "target": "area_sqm", "transform": "acres_to_sqm" },
-      "village":          { "target": "village" },
-      "tehsil":           { "target": "tehsil" },
-      "district":         { "target": "district" },
-      "state":            { "target": "state" },
-      "geometry_wkt":     { "target": "geometry_wkt" },
-      "coordinate_system":{ "target": "coordinate_system" }
+      "record_id":  { "target": "parcel_id" },
+      "owner_name": { "target": "owner_name", "transform": "trim" },
+      "area_sqm":   { "target": "area_sqm", "transform": "to_number" },
+      "village":    { "target": "village" },
+      "taluk":      { "target": "tehsil" },
+      "district":   { "target": "district" },
+      "state":      { "target": "state" },
+      "crs":        { "target": "coordinate_system" }
     }
   },
   {
-    "profile_id": "SURVEY_XLSX_V1",
+    "profile_id": "ALUR_SURVEY_GEOJSON_V1",
     "source_system": "SURVEY",
-    "file_type": "XLSX",
-    "description": "Survey of India / drone-survey plot register (Excel export, point + radius geometry)",
+    "file_type": "GEOJSON",
+    "description": "Alur survey parcel GeoJSON export, Davanagere Taluk, Karnataka",
     "field_mappings": {
-      "PlotID":          { "target": "parcel_id" },
-      "LandOwner":       { "target": "owner_name" },
-      "OwnerAadhaar":    { "target": "owner_id" },
-      "Area_Ha":         { "target": "area_sqm", "transform": "hectares_to_sqm" },
-      "Village_Name":    { "target": "village" },
-      "Taluk":           { "target": "tehsil" },
-      "District":        { "target": "district" },
-      "State":           { "target": "state" },
-      "Lat":             { "target": "centroid_lat" },
-      "Lon":             { "target": "centroid_lon" },
-      "CoordSystem":     { "target": "coordinate_system" }
+      "survey_number": { "target": "parcel_id" },
+      "owner_name":    { "target": "owner_name", "transform": "trim" },
+      "area_sqm":      { "target": "area_sqm", "transform": "to_number" },
+      "village":       { "target": "village" },
+      "taluk":         { "target": "tehsil" },
+      "district":      { "target": "district" },
+      "state":         { "target": "state" },
+      "crs":           { "target": "coordinate_system" }
     }
   },
   {
-    "profile_id": "MUNICIPAL_GEOJSON_V1",
+    "profile_id": "ALUR_MUNICIPAL_GEOJSON_V1",
     "source_system": "MUNICIPAL",
     "file_type": "GEOJSON",
-    "description": "Municipal corporation property/plot GeoJSON export",
+    "description": "Alur municipal parcel GeoJSON export, Davanagere Taluk, Karnataka",
     "field_mappings": {
-      "municipal_id":   { "target": "parcel_id" },
-      "resident_name":  { "target": "owner_name" },
-      "resident_id":    { "target": "owner_id" },
-      "plot_size_sqm":  { "target": "area_sqm" },
-      "locality":       { "target": "village" },
-      "ward":           { "target": "tehsil" },
-      "city":           { "target": "district" },
-      "state":          { "target": "state" },
-      "crs":            { "target": "coordinate_system" }
+      "record_id":  { "target": "parcel_id" },
+      "owner_name": { "target": "owner_name", "transform": "trim" },
+      "area_sqm":   { "target": "area_sqm", "transform": "to_number" },
+      "village":    { "target": "village" },
+      "taluk":      { "target": "tehsil" },
+      "district":   { "target": "district" },
+      "state":      { "target": "state" },
+      "crs":        { "target": "coordinate_system" }
     }
   }
 ]

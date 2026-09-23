@@ -4,9 +4,9 @@ A demo-ready web app for **"Automated Integration & Harmonization of Multi-sourc
 Data for Urban Land Records"** (Smart India Hackathon 2026, problem code SIH26013, Disaster
 Management theme, Ministry of Rural Development).
 
-This is the **frontend**, built to run standalone against local mock data so it works with
-zero backend setup, and to swap over to a real API later with minimal changes. See
-[`BACKEND_INTEGRATION.md`](./BACKEND_INTEGRATION.md) for that workflow.
+This is the **frontend** for the Node.js/Express API. It expects the backend at
+`http://localhost:3000` and runs on port 3001 during local development. See
+[`BACKEND_INTEGRATION.md`](./BACKEND_INTEGRATION.md) for the API contract.
 
 ## Tech stack
 
@@ -15,7 +15,7 @@ zero backend setup, and to swap over to a real API later with minimal changes. S
 - **Leaflet** / `react-leaflet` for the interactive land map
 - **Recharts** for dashboard charts
 - **Zustand** for lightweight client state (toast notifications)
-- Local JSON files under `mock/` standing in for a real backend
+- Typed REST client in `lib/api.ts` targeting `/api/v1`
 
 ## Getting started
 
@@ -23,10 +23,11 @@ Requires Node.js 18.18+ (or 20+) and npm.
 
 ```bash
 npm install
-npm run dev
+cp .env.example .env.local
+npm run dev -- -p 3001
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) — it redirects to `/overview`.
+Then open [http://localhost:3001](http://localhost:3001) — it redirects to `/overview`.
 
 Other scripts:
 
@@ -45,7 +46,7 @@ app/
     dashboard/         Programme metrics, charts, activity feed
     map/                Unified Land Map — before/after toggle, search, conflict panel
     conflicts/          Conflicts Dashboard — filters, table, review drawer
-    ingestion/          Data sources & schema mapping demo, fake "Run ingestion"
+    ingestion/          Data sources, schema mapping, and multipart upload
     apis/               Static API reference (mirrors the conceptual backend contract)
     about/              Problem context, capabilities, team section
 components/
@@ -54,7 +55,8 @@ components/
   ui/                   Shared primitives: Card, Badge, Button, Toaster, Skeleton, EmptyState
 lib/
   types.ts              Shared TypeScript domain types (SourceParcel, UnifiedParcel, ...)
-  mockApi.ts             Mock REST layer — the single place that "talks to the backend"
+  api.ts                 Typed REST client for the Express `/api/v1` backend
+  httpClient.ts          Shared fetch wrapper and response unwrapping
   utils.ts               Formatting helpers, label/color maps
   toastStore.ts           Zustand store for toast notifications
 mock/

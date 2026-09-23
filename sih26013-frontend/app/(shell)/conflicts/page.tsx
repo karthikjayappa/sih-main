@@ -1,5 +1,7 @@
-import { getAllParcels } from "@/lib/mockApi";
+import { getAllParcels } from "@/lib/api";
 import { ConflictsExperience } from "@/components/conflicts/ConflictsExperience";
+
+export const dynamic = "force-dynamic";
 
 export default async function ConflictsPage() {
   const parcels = await getAllParcels();

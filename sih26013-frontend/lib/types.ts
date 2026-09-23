@@ -13,6 +13,10 @@ export interface LatLng {
   lng: number;
 }
 
+export type ParcelGeometry =
+  | { type: "Polygon"; coordinates: number[][][] }
+  | { type: "MultiPolygon"; coordinates: number[][][][] };
+
 export interface SourceParcel {
   sourceParcelId: string;
   sourceSystem: SourceSystem;
@@ -21,8 +25,7 @@ export interface SourceParcel {
   village: string;
   tehsil: string;
   district: string;
-  /** Simple ring polygon in [lng, lat] pairs, WGS84 */
-  geometry: [number, number][];
+  geometry: ParcelGeometry;
   rawAttributes: Record<string, string | number>;
   ingestedAt: string;
 }
@@ -43,7 +46,7 @@ export interface UnifiedParcel {
   tehsil: string;
   district: string;
   state: string;
-  geometry: [number, number][];
+  geometry: ParcelGeometry;
   sources: SourceSystem[];
   sourceParcelIds: string[];
   conflictFlag: boolean;

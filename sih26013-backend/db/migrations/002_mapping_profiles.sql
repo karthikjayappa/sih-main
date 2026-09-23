@@ -2,7 +2,7 @@
 -- Stores configurable field-mapping rules used by the ingestion module
 CREATE TABLE IF NOT EXISTS mapping_profiles (
     id              SERIAL PRIMARY KEY,
-    profile_id      VARCHAR(100) UNIQUE NOT NULL,   -- e.g. REVENUE_CSV_V1
+    profile_id      VARCHAR(100) UNIQUE NOT NULL,   -- e.g. ALUR_REVENUE_GEOJSON_V1
     source_system   VARCHAR(50)  NOT NULL,          -- REVENUE / SURVEY / MUNICIPAL / REGISTRATION / OTHER
     file_type       VARCHAR(20)  NOT NULL,          -- CSV / XLSX / GEOJSON
     description     TEXT,

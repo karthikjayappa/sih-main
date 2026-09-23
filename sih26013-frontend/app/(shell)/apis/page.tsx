@@ -128,7 +128,7 @@ export default function ApisPage() {
         <div className="sticky top-24 space-y-4">
           <div className="flex items-center gap-2 rounded border border-line bg-white px-3 py-2.5">
             <Landmark className="h-3.5 w-3.5 text-ledger-500" />
-            <span className="text-[12px] text-ink-soft">Java/Spring Boot + PostgreSQL/PostGIS</span>
+            <span className="text-[12px] text-ink-soft">Node.js/Express + PostgreSQL/PostGIS</span>
           </div>
           <nav className="space-y-1">
             {ENDPOINTS.map((e) => (
@@ -147,7 +147,7 @@ export default function ApisPage() {
       <div className="min-w-0 flex-1">
         <p className="max-w-2xl text-[13.5px] text-ink-soft">
           This service exposes the unified land record layer as JSON over REST. The conceptual
-          backend is Java / Spring Boot with PostgreSQL and the PostGIS extension for spatial
+          backend is Node.js / Express with PostgreSQL and the PostGIS extension for spatial
           storage and queries; in this MVP, responses are served from local mock data.
         </p>
         <div className="mt-6">

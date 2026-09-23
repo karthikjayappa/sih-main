@@ -64,6 +64,19 @@ function resolveCluster(members) {
     if (maxDiffPct > env.conflation.areaMismatchThresholdPct) conflictTypes.add('AREA_MISMATCH');
   }
 
+  // --- Land-use resolution ---
+  const landUses = [
+    ...new Set(
+      members
+        .map((m) => (m.raw_attributes?.land_use || '').trim().toLowerCase())
+        .filter(Boolean)
+    )
+  ];
+
+  if (landUses.length > 1) {
+    conflictTypes.add('LAND_USE_MISMATCH');
+  }
+
   // --- Geometry consistency: compare each member's own footprint area to the
   //     unioned cluster geometry area. A big mismatch means shapes don't line up
   //     (e.g. one source's polygon is far larger/offset from the others). ---

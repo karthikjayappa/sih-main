@@ -2,13 +2,21 @@ const express = require('express');
 const ingestRoutes = require('./ingestRoutes');
 const parcelRoutes = require('./parcelRoutes');
 const conflictRoutes = require('./conflictRoutes');
+const conflationRoutes = require('./conflationRoutes');
 
 const router = express.Router();
 
-router.get('/health', (req, res) => res.status(200).json({ data: { status: 'ok' }, error: null, meta: null }));
+router.get('/health', (req, res) =>
+	res.status(200).json({
+		data: { status: 'ok' },
+		error: null,
+		meta: null
+	})
+);
 
 router.use(ingestRoutes);
 router.use(parcelRoutes);
 router.use(conflictRoutes);
+router.use(conflationRoutes);
 
 module.exports = router;

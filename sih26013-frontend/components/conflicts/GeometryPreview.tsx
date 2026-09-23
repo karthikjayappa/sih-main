@@ -1,8 +1,8 @@
-import type { SourceParcel } from "@/lib/types";
+import type { ParcelGeometry, SourceParcel } from "@/lib/types";
 import { SOURCE_COLOR, SOURCE_LABEL } from "@/lib/utils";
 
 export function GeometryPreview({ records }: { records: SourceParcel[] }) {
-  const allPoints = records.flatMap((r) => r.geometry);
+  const allPoints = records.flatMap((r) => flattenGeometry(r.geometry));
   const lngs = allPoints.map((p) => p[0]);
   const lats = allPoints.map((p) => p[1]);
   const minLng = Math.min(...lngs);
@@ -28,7 +28,9 @@ export function GeometryPreview({ records }: { records: SourceParcel[] }) {
       <svg viewBox={`0 0 ${W} ${H}`} className="w-full" role="img" aria-label="Overlapping source geometries for this parcel">
         <rect x={0} y={0} width={W} height={H} fill="#F7F5EF" />
         {records.map((r, i) => {
-          const points = r.geometry.map((pt) => project(pt).join(",")).join(" ");
+          const points = flattenGeometry(r.geometry)
+            .map((pt) => project(pt).join(","))
+            .join(" ");
           return (
             <polygon
               key={i}
@@ -51,4 +53,17 @@ export function GeometryPreview({ records }: { records: SourceParcel[] }) {
       </div>
     </div>
   );
+}
+
+function flattenGeometry(geometry: ParcelGeometry): [number, number][] {
+  const points: [number, number][] = [];
+  const visit = (value: unknown): void => {
+    if (Array.isArray(value) && typeof value[0] === "number" && typeof value[1] === "number") {
+      points.push([value[0], value[1]]);
+      return;
+    }
+    if (Array.isArray(value)) value.forEach(visit);
+  };
+  visit(geometry.coordinates);
+  return points;
 }

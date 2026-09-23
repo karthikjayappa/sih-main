@@ -1,28 +1,35 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { Search } from "lucide-react";
 import type { UnifiedParcel } from "@/lib/types";
+import { searchParcels } from "@/lib/api";
 
 export function MapSearch({
-  parcels,
   onSelect,
 }: {
-  parcels: UnifiedParcel[];
   onSelect: (parcel: UnifiedParcel) => void;
 }) {
   const [q, setQ] = useState("");
   const [focused, setFocused] = useState(false);
+  const [suggestions, setSuggestions] = useState<UnifiedParcel[]>([]);
 
-  const suggestions = useMemo(() => {
-    if (!q.trim()) return [];
-    const query = q.toLowerCase();
-    return parcels
-      .filter((p) =>
-        [p.parcelId, p.ownerName, p.village, p.tehsil].join(" ").toLowerCase().includes(query)
-      )
-      .slice(0, 6);
-  }, [q, parcels]);
+  useEffect(() => {
+    if (!q.trim()) {
+      setSuggestions([]);
+      return;
+    }
+    let active = true;
+    const timer = window.setTimeout(() => {
+      searchParcels({ q })
+        .then((results) => active && setSuggestions(results.slice(0, 6)))
+        .catch(() => active && setSuggestions([]));
+    }, 220);
+    return () => {
+      active = false;
+      window.clearTimeout(timer);
+    };
+  }, [q]);
 
   return (
     <div className="relative w-full max-w-xs">

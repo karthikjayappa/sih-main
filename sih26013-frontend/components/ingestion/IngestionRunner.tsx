@@ -1,43 +1,39 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Play, Loader2 } from "lucide-react";
+import { UploadCloud, Loader2 } from "lucide-react";
 import { Button } from "@/components/ui/Button";
-import { runIngestion } from "@/lib/mockApi";
+import { ingestFile } from "@/lib/api";
 import { toast } from "@/lib/toastStore";
 import type { Dataset } from "@/lib/types";
 
 export function IngestionRunner({ dataset }: { dataset: Dataset | null }) {
   const [running, setRunning] = useState(false);
-  const [progress, setProgress] = useState(0);
+  const [file, setFile] = useState<File | null>(null);
   const [result, setResult] = useState<{ ingested: number; mapped: number; warnings: string[] } | null>(null);
 
   useEffect(() => {
     setResult(null);
-    setProgress(0);
+    setFile(null);
   }, [dataset?.id]);
 
   async function handleRun() {
-    if (!dataset) return;
+    if (!dataset || !file) return;
     setRunning(true);
-    setProgress(4);
     setResult(null);
-    toast("Running ingestion…", dataset.name);
-
-    const ticker = setInterval(() => {
-      setProgress((p) => Math.min(92, p + Math.random() * 18));
-    }, 220);
-
-    const res = await runIngestion(dataset.id);
-    clearInterval(ticker);
-    setProgress(100);
-    setResult(res);
-    setRunning(false);
-
-    if (res.warnings.length > 0) {
-      toast("Ingestion completed with warnings", res.warnings.join(" "), "warning");
-    } else {
-      toast("Ingestion complete", `${res.mapped} of ${res.ingested} records mapped to the common schema.`, "success");
+    toast("Uploading dataset", file.name);
+    try {
+      const res = await ingestFile(file, dataset.sourceSystem, dataset.id);
+      setResult(res);
+      if (res.warnings.length > 0) {
+        toast("Ingestion completed with warnings", res.warnings.join(" "), "warning");
+      } else {
+        toast("Ingestion complete", `${res.mapped} of ${res.ingested} records mapped to the common schema.`, "success");
+      }
+    } catch (error) {
+      toast("Ingestion failed", error instanceof Error ? error.message : "The upload could not be completed.", "error");
+    } finally {
+      setRunning(false);
     }
   }
 
@@ -49,38 +45,33 @@ export function IngestionRunner({ dataset }: { dataset: Dataset | null }) {
             {dataset ? dataset.name : "Select a data source"}
           </p>
           <p className="text-[12px] text-ink-soft">
-            {dataset ? `${dataset.recordCount} records · ${dataset.format}` : "Choose a card above to enable ingestion"}
+            {dataset ? `${dataset.sourceSystem} · ${dataset.format}` : "Choose a card above to enable ingestion"}
           </p>
         </div>
-        <Button size="sm" disabled={!dataset || running} onClick={handleRun}>
-          {running ? <Loader2 className="h-3.5 w-3.5 animate-spin" /> : <Play className="h-3.5 w-3.5" />}
-          Run ingestion
+        <Button size="sm" disabled={!dataset || !file || running} onClick={handleRun}>
+          {running ? <Loader2 className="h-3.5 w-3.5 animate-spin" /> : <UploadCloud className="h-3.5 w-3.5" />}
+          Validate & upload
         </Button>
       </div>
 
-      {(running || progress > 0) && (
+      <label className="mt-4 flex cursor-pointer flex-col items-center gap-2 rounded border border-dashed border-line px-4 py-6 text-center hover:bg-paper-dim">
+        <UploadCloud className="h-5 w-5 text-ledger-600" />
+        <span className="text-[13px] font-medium text-ink">Choose a GeoJSON, CSV, XLSX, or ZIP file</span>
+        <span className="text-[12px] text-ink-soft">{file ? file.name : "The selected mapping profile will be sent with the upload."}</span>
+        <input type="file" accept=".geojson,.json,.csv,.xlsx,.zip" className="sr-only" onChange={(event) => setFile(event.target.files?.[0] ?? null)} />
+      </label>
+
+      {running && (
         <div className="mt-4">
-          <div className="h-2 w-full overflow-hidden rounded-full bg-paper-dim">
-            <div
-              className="h-full rounded-full bg-ledger-500 transition-all duration-200"
-              style={{ width: `${progress}%` }}
-            />
-          </div>
-          {result && (
-            <div className="mt-3 flex flex-wrap gap-4 text-[13px]">
-              <p className="text-ink">
-                <span className="font-semibold">{result.ingested}</span> records ingested
-              </p>
-              <p className="text-ink">
-                <span className="font-semibold">{result.mapped}</span> mapped to common schema
-              </p>
-              {result.warnings.length > 0 && (
-                <p className="text-gold-500">{result.warnings.join(" ")}</p>
-              )}
-            </div>
-          )}
+          <p className="text-[13px] text-ink-soft">Uploading and validating geometry…</p>
         </div>
       )}
+
+      {result && <div className="mt-3 flex flex-wrap gap-4 text-[13px]">
+        <p className="text-ink"><span className="font-semibold">{result.ingested}</span> records ingested</p>
+        <p className="text-ink"><span className="font-semibold">{result.mapped}</span> mapped to common schema</p>
+        {result.warnings.length > 0 && <p className="text-gold-500">{result.warnings.join(" ")}</p>}
+      </div>}
     </div>
   );
 }

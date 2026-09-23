@@ -43,7 +43,7 @@ export function MapExperience({
           <Legend mode={mode} />
         </div>
         <div className="pointer-events-auto">
-          <MapSearch parcels={unifiedParcels} onSelect={handleSearchSelect} />
+          <MapSearch onSelect={handleSearchSelect} />
         </div>
       </div>
 

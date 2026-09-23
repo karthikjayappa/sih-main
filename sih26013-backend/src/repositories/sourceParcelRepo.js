@@ -59,33 +59,62 @@ async function findByIds(ids) {
   return rows;
 }
 
-/** Finds candidate pairs whose normalized parcel_id matches exactly across rows. */
+/** Finds candidate pairs with matching survey numbers, locations, and geometry overlap. */
 async function findIdMatchPairs() {
   const { rows } = await db.query(`
-    SELECT a.id AS a_id, b.id AS b_id
+    SELECT
+      a.id AS a_id,
+      b.id AS b_id
     FROM source_parcels a
     JOIN source_parcels b
       ON a.id < b.id
-     AND lower(regexp_replace(a.parcel_id, '\\s+', '', 'g')) =
-         lower(regexp_replace(b.parcel_id, '\\s+', '', 'g'))
+     AND a.source_system <> b.source_system
+
+     -- Same administrative location
+     AND lower(trim(coalesce(a.district, ''))) =
+         lower(trim(coalesce(b.district, '')))
+
+     AND lower(trim(coalesce(a.tehsil, ''))) =
+         lower(trim(coalesce(b.tehsil, '')))
+
+     AND lower(trim(coalesce(a.village, ''))) =
+         lower(trim(coalesce(b.village, '')))
+
+     -- Same cadastral survey number
+     AND lower(trim(coalesce(a.raw_attributes->>'survey_number', ''))) =
+         lower(trim(coalesce(b.raw_attributes->>'survey_number', '')))
+
+     -- Survey number must exist
+     AND trim(coalesce(a.raw_attributes->>'survey_number', '')) <> ''
+
+     -- The physical parcel must substantially overlap.
+     AND a.geometry IS NOT NULL
+     AND b.geometry IS NOT NULL
+     AND ST_Intersects(a.geometry, b.geometry)
+
+     -- At least 90% of the smaller parcel overlaps the larger one.
+     AND ST_Area(
+           ST_Intersection(a.geometry, b.geometry)::geography
+         )
+         /
+         NULLIF(
+           LEAST(
+             ST_Area(a.geometry::geography),
+             ST_Area(b.geometry::geography)
+           ),
+           0
+         ) >= 0.90
   `);
+
   return rows;
 }
 
 /** Finds candidate pairs whose geometries are within `distanceMeters` of each other (PostGIS ST_DWithin on geography). */
 async function findGeometryMatchPairs(distanceMeters) {
-  const { rows } = await db.query(
-    `
-    SELECT a.id AS a_id, b.id AS b_id
-    FROM source_parcels a
-    JOIN source_parcels b
-      ON a.id < b.id
-     AND a.geometry IS NOT NULL AND b.geometry IS NOT NULL
-     AND ST_DWithin(a.geometry::geography, b.geometry::geography, $1)
-    `,
-    [distanceMeters]
-  );
-  return rows;
+  // Geometry proximity is NOT used for automatic parcel merging.
+  // Cadastral parcels can be adjacent to each other, so ST_DWithin
+  // can incorrectly merge neighboring parcels into large clusters.
+  return [];
 }
 
 /** Whether geometries of two rows intersect at all (PostGIS ST_Intersects). */

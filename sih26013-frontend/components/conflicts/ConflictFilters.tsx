@@ -1,6 +1,6 @@
 "use client";
 
-import type { ConflictFilterParams } from "@/lib/mockApi";
+import type { ConflictFilterParams } from "@/lib/api";
 import { CONFLICT_TYPE_LABEL, STATUS_LABEL } from "@/lib/utils";
 
 const STATUSES = ["ALL", "PENDING_REVIEW", "REVIEWED", "RESOLVED"] as const;
