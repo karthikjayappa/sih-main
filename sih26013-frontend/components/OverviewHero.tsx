@@ -27,17 +27,17 @@ export function OverviewHero() {
 
           <div className="mt-9 flex flex-wrap items-center gap-3">
             <Link
-              href="/map"
+              href="/department/login"
               className="inline-flex items-center gap-2 rounded bg-ledger-500 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-ledger-700"
             >
-              Open the unified map
+              Department Login
               <ArrowRight className="h-4 w-4" />
             </Link>
             <Link
-              href="/dashboard"
+              href="/citizen/login"
               className="inline-flex items-center gap-2 rounded border border-line bg-white px-5 py-2.5 text-sm font-medium text-ink transition-colors hover:bg-paper-dim"
             >
-              View programme dashboard
+              Property Owner
             </Link>
           </div>
 

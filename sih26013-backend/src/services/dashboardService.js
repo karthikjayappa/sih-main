@@ -85,8 +85,10 @@ async function getStats() {
 
     ingestionTrend: ingestionTrendResult.rows.map((row) => ({
       date: row.date,
-      count: row.count,
+      records: row.count,
     })),
+
+    recentActivity: [],
   };
 }
 

@@ -31,7 +31,7 @@ async function findById(id) {
   const { rows } = await db.query(
     `SELECT unified_parcel_id, source_parcel_ids, owner_name, area_sqm,
             ST_AsGeoJSON(geometry) AS geometry_geojson,
-            village, tehsil, district, state, conflict_flag, conflict_types,
+            village, tehsil, district, state, land_use, conflict_flag, conflict_types,
             status, created_at, updated_at
      FROM unified_parcels WHERE unified_parcel_id = $1`,
     [id]
@@ -150,6 +150,72 @@ async function updateStatus(id, status) {
   return rows[0] || null;
 }
 
+async function updateOwnerName(id, ownerName) {
+  const { rows } = await db.query(
+    `UPDATE unified_parcels
+     SET owner_name = $2,
+         updated_at = now()
+     WHERE unified_parcel_id = $1
+     RETURNING *`,
+    [id, ownerName]
+  );
+
+  return rows[0] || null;
+}
+
+async function updateArea(id, areaSqm) {
+  const { rows } = await db.query(
+    `UPDATE unified_parcels
+     SET area_sqm = $2,
+         updated_at = now()
+     WHERE unified_parcel_id = $1
+     RETURNING *`,
+    [id, areaSqm]
+  );
+
+  return rows[0] || null;
+}
+
+async function updateLandUse(id, landUse) {
+  const { rows } = await db.query(
+    `UPDATE unified_parcels
+     SET land_use = $2,
+         updated_at = now()
+     WHERE unified_parcel_id = $1
+     RETURNING *`,
+    [id, landUse]
+  );
+
+  return rows[0] || null;
+}
+
+async function removeConflictType(id, conflictType) {
+  const { rows } = await db.query(
+    `UPDATE unified_parcels
+     SET conflict_types = array_remove(conflict_types, $2),
+         conflict_flag = CASE
+           WHEN array_length(array_remove(conflict_types, $2), 1) IS NULL
+           THEN false
+           ELSE true
+         END,
+         updated_at = now()
+     WHERE unified_parcel_id = $1
+     RETURNING unified_parcel_id, conflict_types, conflict_flag, status, updated_at`,
+    [id, conflictType]
+  );
+
+  return rows[0] || null;
+}
+
 module.exports = {
-  insert, deleteAll, findById, search, findConflicts, updateStatus,
+  insert,
+  deleteAll,
+  findById,
+  search,
+  findConflicts,
+  updateStatus,
+  updateOwnerName,
+  updateArea,
+  updateLandUse,
+  removeConflictType,
 };

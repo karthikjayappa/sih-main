@@ -7,6 +7,7 @@ import {
   Map,
   ShieldAlert,
   UploadCloud,
+  ClipboardList,
   Code2,
   Info,
   Landmark,
@@ -18,6 +19,7 @@ const NAV = [
   { href: "/map", label: "Land Map", icon: Map },
   { href: "/conflicts", label: "Conflicts", icon: ShieldAlert },
   { href: "/ingestion", label: "Data Ingestion", icon: UploadCloud },
+  { href: "/correction-requests", label: "Correction Requests", icon: ClipboardList },
   { href: "/apis", label: "APIs", icon: Code2 },
   { href: "/about", label: "About", icon: Info },
 ];
